@@ -11,7 +11,7 @@ import json
 import os
 from decimal import Decimal
 
-import RPi.GPIO as GPIO
+#import RPi.GPIO as GPIO
 from django.core import serializers
 from django.db import models
 
@@ -19,8 +19,8 @@ from tools import hasStrNumbers
 
 gpio_pin_numbers = [5, 6, 7, 13, 12, 16, 19, 20, 21, 26]
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(gpio_pin_numbers, GPIO.OUT)
+# GPIO.setmode(GPIO.BCM)
+# GPIO.setup(gpio_pin_numbers, GPIO.OUT)
 
 gpio_objects = []
 
@@ -94,24 +94,24 @@ class IllnessManager(models.Manager):
             gpio_obj = gpio_objects[i]
             gpio_obj.ChangeFrequency(Decimal(frequency))
             gpio_obj.start(illness.fill_time)
-
-    @staticmethod
-    def stop():
-        # stop playing frequencies and release resources
-        GPIO.cleanup()
-
-    @staticmethod
-    def init():
-        # initialize all gpio objects
-        for i, pin in enumerate(gpio_pin_numbers):
-            obj = GPIO.PWM(pin, 1)
-            gpio_objects.append(obj)
+    #
+    # @staticmethod
+    # def stop():
+    #     # stop playing frequencies and release resources
+    #     GPIO.cleanup()
+    #
+    # @staticmethod
+    # def init():
+    #     # initialize all gpio objects
+    #     for i, pin in enumerate(gpio_pin_numbers):
+    #         obj = GPIO.PWM(pin, 1)
+    #         gpio_objects.append(obj)
 
 
 class IllnessItem(models.Model):
     name = models.CharField(max_length=100)
     frequencies = models.CharField(max_length=100)
-    fill_time = models.IntegerField()
+    duty_cycle = models.IntegerField(null=True)
 
 
 
