@@ -1,0 +1,3 @@
+lxml
+Django
+RPi.GPIO

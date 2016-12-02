@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+  <object pk="1" model="medfreq.frequency">
+    <field type="CharField" name="name">Adenoma</field>
+    <field type="CharField" name="frequencies">['0.04', '5.81', '22.50', '52.50', '92.50', '224.37', '527.00', '667.00', '721.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="2" model="medfreq.frequency">
+    <field type="CharField" name="name">Adenomatous Polyposis Coli</field>
+    <field type="CharField" name="frequencies">['0.04', '0.25', '0.50', '2.50', '322.06', '422.53', '561.93', '709.83', '842.50', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="3" model="medfreq.frequency">
+    <field type="CharField" name="name">Adenoviridae Infections</field>
+    <field type="CharField" name="frequencies">['0.18', '0.52', '0.80', '37.50', '93.20', '150.00', '275.00', '509.35', '755.00', '866.15']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="4" model="medfreq.frequency">
+    <field type="CharField" name="name">Adhesions, Pelvic</field>
+    <field type="CharField" name="frequencies">['0.02', '2.50', '35.16', '67.50', '90.00', '355.08', '419.34', '567.70', '707.26', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="5" model="medfreq.frequency">
+    <field type="CharField" name="name">Adie Syndrome</field>
+    <field type="CharField" name="frequencies">['0.17', '0.46', '10.85', '55.16', '96.50', '350.00', '567.00', '692.33', '810.20', '982.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="6" model="medfreq.frequency">
+    <field type="CharField" name="name">Adiposis Dolorosa</field>
+    <field type="CharField" name="frequencies">['0.16', '0.97', '27.50', '110.25', '325.00', '476.50', '527.00', '665.34', '749.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="7" model="medfreq.frequency">
+    <field type="CharField" name="name">Adrenoleukodystrophy</field>
+    <field type="CharField" name="frequencies">['0.19', '0.75', '0.90', '5.16', '30.00', '229.32', '434.25', '564.28', '714.82', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="8" model="medfreq.frequency">
+    <field type="CharField" name="name">Alagille Syndrome</field>
+    <field type="CharField" name="frequencies">['0.08', '0.80', '0.95', '22.50', '57.50', '175.00', '419.34', '563.19', '813.96', '983.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="9" model="medfreq.frequency">
+    <field type="CharField" name="name">Alexander Disease</field>
+    <field type="CharField" name="frequencies">['0.14', '0.78', '2.50', '97.50', '357.77', '475.05', '527.00', '657.11', '749.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="10" model="medfreq.frequency">
+    <field type="CharField" name="name">Alkalosis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.75', '2.25', '72.50', '110.25', '379.93', '424.37', '561.93', '642.06', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="11" model="medfreq.frequency">
+    <field type="CharField" name="name">Alpha-Mannosidosis</field>
+    <field type="CharField" name="frequencies">['0.75', '7.50', '57.50', '122.53', '269.71', '479.50', '527.00', '667.00', '742.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="12" model="medfreq.frequency">
+    <field type="CharField" name="name">Amblyopia</field>
+    <field type="CharField" name="frequencies">['0.05', '0.70', '2.50', '67.50', '125.05', '322.06', '536.42', '655.20', '752.63', '924.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="13" model="medfreq.frequency">
+    <field type="CharField" name="name">Amebiasis</field>
+    <field type="CharField" name="frequencies">['0.52', '2.50', '40.00', '95.00', '376.29', '476.50', '527.00', '665.34', '752.70', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="14" model="medfreq.frequency">
+    <field type="CharField" name="name">Amphibian Diseases</field>
+    <field type="CharField" name="frequencies">['0.07', '10.83', '5.81', '57.50', '125.05', '376.29', '419.34', '560.00', '642.91', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="15" model="medfreq.frequency">
+    <field type="CharField" name="name">Anaphylaxis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.75', '2.50', '65.00', '87.30', '236.42', '400.00', '561.93', '714.82', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="16" model="medfreq.frequency">
+    <field type="CharField" name="name">Anaplasmosis</field>
+    <field type="CharField" name="frequencies">['0.10', '0.24', '0.80', '15.20', '32.50', '97.50', '322.06', '377.91', '492.50', '723.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="17" model="medfreq.frequency">
+    <field type="CharField" name="name">Anemia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.55', '5.97', '23.00', '50.50', '80.50', '97.53', '210.50', '533.21', '909.26']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="18" model="medfreq.frequency">
+    <field type="CharField" name="name">Anemia, Hemolytic</field>
+    <field type="CharField" name="frequencies">['0.02', '0.12', '5.16', '62.50', '110.25', '332.41', '517.50', '684.81', '712.23', '992.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="19" model="medfreq.frequency">
+    <field type="CharField" name="name">Anencephaly</field>
+    <field type="CharField" name="frequencies">['0.11', '0.49', '1.00', '2.25', '30.00', '97.50', '325.71', '342.06', '750.00', '934.25']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="20" model="medfreq.frequency">
+    <field type="CharField" name="name">Angina Pectoris</field>
+    <field type="CharField" name="frequencies">['0.10', '0.68', '0.83', '42.20', '92.50', '225.00', '534.20', '779.00', '882.10', '911.09']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="21" model="medfreq.frequency">
+    <field type="CharField" name="name">Animal Diseases</field>
+    <field type="CharField" name="frequencies">['0.05', '0.57', '0.87', '2.50', '5.81', '92.50', '424.37', '561.93', '709.83', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="22" model="medfreq.frequency">
+    <field type="CharField" name="name">Anisakiasis</field>
+    <field type="CharField" name="frequencies">['0.04', '0.23', '0.78', '5.62', '15.05', '35.33', '67.50', '125.00', '225.00', '733.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="23" model="medfreq.frequency">
+    <field type="CharField" name="name">Ankyloglossia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.78', '5.81', '67.50', '350.00', '475.00', '527.00', '665.34', '742.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="24" model="medfreq.frequency">
+    <field type="CharField" name="name">Anoxia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.85', '2.50', '43.00', '97.23', '175.00', '388.00', '791.00', '853.00', '972.10']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="25" model="medfreq.frequency">
+    <field type="CharField" name="name">Anthrax</field>
+    <field type="CharField" name="frequencies">['0.07', '0.68', '0.93', '5.50', '11.09', '119.34', '150.00', '175.33', '545.00', '705.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="26" model="medfreq.frequency">
+    <field type="CharField" name="name">Anus Diseases</field>
+    <field type="CharField" name="frequencies">['0.05', '0.60', '2.25', '7.50', '97.50', '475.00', '527.00', '667.00', '752.70', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="27" model="medfreq.frequency">
+    <field type="CharField" name="name">Arbovirus Infections</field>
+    <field type="CharField" name="frequencies">['0.07', '0.68', '2.33', '35.00', '87.50', '476.50', '527.00', '667.00', '753.23', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="28" model="medfreq.frequency">
+    <field type="CharField" name="name">Arrhythmias, Cardiac</field>
+    <field type="CharField" name="frequencies">['0.9', '0.78', '0.83', '7.50', '8.00', '225.33', '510.25', '689.93', '750.00', '936.42']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="29" model="medfreq.frequency">
+    <field type="CharField" name="name">Arthritis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.75', '0.90', '9.00', '11.09', '55.33', '325.16', '425.71', '642.91', '980.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="30" model="medfreq.frequency">
+    <field type="CharField" name="name">Arthritis, Rheumatoid</field>
+    <field type="CharField" name="frequencies">['0.19', '1.00', '2.80', '17.50', '45.00', '225.00', '510.25', '682.02', '759.83', '932.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="31" model="medfreq.frequency">
+    <field type="CharField" name="name">Ascites</field>
+    <field type="CharField" name="frequencies">['0.07', '0.52', '6.23', '37.50', '355.08', '475.09', '527.00', '667.00', '789.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="32" model="medfreq.frequency">
+    <field type="CharField" name="name">Astrocytoma</field>
+    <field type="CharField" name="frequencies">['0.02', '0.57', '9.00', '12.85', '45.00', '92.50', '175.75', '450.00', '515.16', '689.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="33" model="medfreq.frequency">
+    <field type="CharField" name="name">Asperger Syndrome</field>
+    <field type="CharField" name="frequencies">['0.04', '0.40', '2.50', '10.53', '47.50', '210.25', '518.92', '688.29', '712.23', '916.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="34" model="medfreq.frequency">
+    <field type="CharField" name="name">Aspergillosis</field>
+    <field type="CharField" name="frequencies">['0.12', '0.83', '5.00', '7.25', '37.50', '357.30', '434.25', '563.19', '709.83', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="35" model="medfreq.frequency">
+    <field type="CharField" name="name">Asthma</field>
+    <field type="CharField" name="frequencies">['0.57', '0.90', '2.50', '3.00', '27.50', '95.75', '125.00', '150.00', '534.20', '871.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="36" model="medfreq.frequency">
+    <field type="CharField" name="name">Astigmatism</field>
+    <field type="CharField" name="frequencies">['0.60', '0.90', '12.33', '7.50', '12.71', '55.00', '234.51', '325.71', '491.00', '667.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="37" model="medfreq.frequency">
+    <field type="CharField" name="name">Atelectasis (Pulmonary)</field>
+    <field type="CharField" name="frequencies">['0.05', '0.73', '0.95', '5.00', '17.50', '37.50', '322.06', '563.19', '714.82', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="38" model="medfreq.frequency">
+    <field type="CharField" name="name">Atrial Fibrillation</field>
+    <field type="CharField" name="frequencies">['0.08', '0.73', '0.97', '5.75', '37.50', '85.09', '96.50', '125.16', '325.00', '377.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="39" model="medfreq.frequency">
+    <field type="CharField" name="name">Avian Influenza</field>
+    <field type="CharField" name="frequencies">['0.17', '0.24', '0.75', '0.97', '5.62', '30.00', '62.50', '93.50', '150.00', '872.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="40" model="medfreq.frequency">
+    <field type="CharField" name="name">Babesiosis</field>
+    <field type="CharField" name="frequencies">['0.04', '0.18', '0.70', '0.90', '7.50', '45.75', '71.50', '95.00', '219.34', '379.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="41" model="medfreq.frequency">
+    <field type="CharField" name="name">Balanitis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.25', '0.93', '13.61', '7.50', '95.00', '310.25', '451.17', '519.68', '688.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="42" model="medfreq.frequency">
+    <field type="CharField" name="name">Barth Syndrome</field>
+    <field type="CharField" name="frequencies">['0.05', '0.18', '17.50', '45.00', '70.00', '125.75', '377.91', '475.16', '527.00', '753.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="43" model="medfreq.frequency">
+    <field type="CharField" name="name">Behcet Syndrome</field>
+    <field type="CharField" name="frequencies">['0.11', '0.55', '0.85', '16.20', '47.50', '376.29', '476.50', '527.00', '667.00', '742.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="44" model="medfreq.frequency">
+    <field type="CharField" name="name">Beriberi</field>
+    <field type="CharField" name="frequencies">['0.12', '0.22', '5.81', '5.50', '40.00', '67.50', '150.00', '269.71', '749.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="45" model="medfreq.frequency">
+    <field type="CharField" name="name">Biliary Tract Diseases</field>
+    <field type="CharField" name="frequencies">['0.17', '0.49', '2.50', '32.50', '72.50', '312.33', '400.00', '560.00', '709.83', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="46" model="medfreq.frequency">
+    <field type="CharField" name="name">Bipolar Disorder</field>
+    <field type="CharField" name="frequencies">['0.16', '0.80', '7.50', '30.00', '67.50', '125.00', '352.93', '563.19', '642.91', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="47" model="medfreq.frequency">
+    <field type="CharField" name="name">Bites and Stings</field>
+    <field type="CharField" name="frequencies">['0.03', '0.55', '0.78', '7.25', '50.00', '85.16', '97.50', '210.50', '752.63', '925.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="48" model="medfreq.frequency">
+    <field type="CharField" name="name">Bladder Exstrophy</field>
+    <field type="CharField" name="frequencies">['0.02', '0.90', '2.25', '5.00', '132.41', '322.53', '412.33', '561.93', '714.82', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="49" model="medfreq.frequency">
+    <field type="CharField" name="name">Blepharitis</field>
+    <field type="CharField" name="frequencies">['0.10', '0.83', '5.00', '45.11', '93.50', '475.16', '527.00', '667.00', '752.70', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="50" model="medfreq.frequency">
+    <field type="CharField" name="name">Bone Neoplasms</field>
+    <field type="CharField" name="frequencies">['0.57', '0.83', '2.85', '32.50', '97.50', '322.53', '436.42', '566.41', '835.96', '978.85']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="51" model="medfreq.frequency">
+    <field type="CharField" name="name">Bradycardia</field>
+    <field type="CharField" name="frequencies">['0.24', '0.70', '2.75', '17.50', '57.50', '92.50', '322.06', '567.70', '640.00', '980.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="52" model="medfreq.frequency">
+    <field type="CharField" name="name">Brain Concussion</field>
+    <field type="CharField" name="frequencies">['0.01', '0.20', '0.65', '85.75', '90.00', '325.00', '375.11', '497.61', '689.93', '753.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="53" model="medfreq.frequency">
+    <field type="CharField" name="name">Breast Diseases</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '13.93', '35.16', '92.50', '355.72', '412.33', '563.19', '709.83', '978.85']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="54" model="medfreq.frequency">
+    <field type="CharField" name="name">Bronchial Diseases</field>
+    <field type="CharField" name="frequencies">['0.01', '0.37', '0.83', '2.50', '3.00', '75.85', '95.16', '175.03', '269.71', '350.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="55" model="medfreq.frequency">
+    <field type="CharField" name="name">Bronchiectasis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.40', '0.83', '71.50', '95.75', '175.15', '275.15', '357.30', '749.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="56" model="medfreq.frequency">
+    <field type="CharField" name="name">Bronchiolitis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.40', '0.83', '2.50', '3.00', '73.30', '95.03', '175.00', '275.75', '358.57']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="57" model="medfreq.frequency">
+    <field type="CharField" name="name">Bronchitis</field>
+    <field type="CharField" name="frequencies">['0.01', '0.37', '0.83', '2.50', '70.00', '95.03', '175.00', '269.71', '355.72', '755.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="58" model="medfreq.frequency">
+    <field type="CharField" name="name">Bulbar Palsy, Progressive</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.62', '2.50', '5.50', '40.00', '475.03', '527.00', '667.00', '742.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="59" model="medfreq.frequency">
+    <field type="CharField" name="name">Bunyaviridae Infections</field>
+    <field type="CharField" name="frequencies">['0.26', '0.65', '5.12', '7.00', '42.50', '200.00', '458.50', '515.15', '683.00', '712.42']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="60" model="medfreq.frequency">
+    <field type="CharField" name="name">Candidiasis</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.93', '2.50', '42.50', '71.50', '96.50', '125.75', '642.91', '983.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="61" model="medfreq.frequency">
+    <field type="CharField" name="name">Candidiasis, Vulvovaginal</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.93', '3.78', '42.50', '71.50', '96.50', '125.75', '642.91', '983.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="62" model="medfreq.frequency">
+    <field type="CharField" name="name">Cardiac Tamponade</field>
+    <field type="CharField" name="frequencies">['0.03', '0.18', '5.50', '20.00', '93.50', '175.75', '479.50', '527.00', '667.00', '749.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="63" model="medfreq.frequency">
+    <field type="CharField" name="name">Carnitine Disorders</field>
+    <field type="CharField" name="frequencies">['0.03', '0.52', '7.50', '30.00', '225.16', '475.19', '527.00', '667.00', '789.00', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="64" model="medfreq.frequency">
+    <field type="CharField" name="name">Carotid Stenosis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.24', '2.75', '17.50', '35.19', '97.50', '269.71', '424.37', '563.19', '875.96']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="65" model="medfreq.frequency">
+    <field type="CharField" name="name">Cat Eye Syndrome</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '0.62', '7.50', '17.50', '87.50', '479.50', '662.71', '749.00', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="66" model="medfreq.frequency">
+    <field type="CharField" name="name">Catheterization</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '0.80', '5.17', '15.00', '229.32', '512.33', '653.69', '753.07', '919.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="67" model="medfreq.frequency">
+    <field type="CharField" name="name">Causalgia</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '0.80', '62.50', '96.50', '210.50', '475.00', '667.00', '742.00', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="68" model="medfreq.frequency">
+    <field type="CharField" name="name">Cerebral Palsy</field>
+    <field type="CharField" name="frequencies">['0.06', '0.32', '20.00', '85.75', '150.00', '225.00', '222.70', '454.50', '515.17', '687.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="69" model="medfreq.frequency">
+    <field type="CharField" name="name">Cestode Infections</field>
+    <field type="CharField" name="frequencies">['0.24', '0.70', '40.00', '72.50', '97.50', '336.42', '475.19', '527.00', '662.71', '752.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="70" model="medfreq.frequency">
+    <field type="CharField" name="name">Chagas Disease</field>
+    <field type="CharField" name="frequencies">['0.03', '0.22', '2.92', '40.00', '222.70', '477.50', '527.00', '667.00', '721.00', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="71" model="medfreq.frequency">
+    <field type="CharField" name="name">Chancroid</field>
+    <field type="CharField" name="frequencies">['0.24', '0.70', '7.50', '72.50', '119.34', '324.37', '515.70', '682.02', '754.19', '941.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="72" model="medfreq.frequency">
+    <field type="CharField" name="name">CHARGE Syndrome</field>
+    <field type="CharField" name="frequencies">['0.10', '0.65', '5.12', '42.50', '225.17', '479.50', '527.00', '667.00', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="73" model="medfreq.frequency">
+    <field type="CharField" name="name">Cheilitis</field>
+    <field type="CharField" name="frequencies">['0.85', '7.50', '2.75', '12.71', '52.50', '97.50', '419.34', '566.41', '642.91', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="74" model="medfreq.frequency">
+    <field type="CharField" name="name">Cherubism</field>
+    <field type="CharField" name="frequencies">['0.80', '1.27', '7.50', '65.00', '125.75', '229.32', '415.70', '563.19', '709.83', '978.85']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="75" model="medfreq.frequency">
+    <field type="CharField" name="name">Chest Pain</field>
+    <field type="CharField" name="frequencies">['0.10', '0.26', '0.65', '5.81', '7.00', '42.50', '234.25', '475.19', '627.00', '762.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="76" model="medfreq.frequency">
+    <field type="CharField" name="name">Chickenpox</field>
+    <field type="CharField" name="frequencies">['0.04', '0.12', '57.50', '92.50', '332.41', '225.17', '454.50', '517.50', '689.41', '712.81']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="77" model="medfreq.frequency">
+    <field type="CharField" name="name">Cholelithiasis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.49', '0.57', '72.50', '225.00', '477.50', '527.00', '667.00', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="78" model="medfreq.frequency">
+    <field type="CharField" name="name">Chondrosarcoma</field>
+    <field type="CharField" name="frequencies">['0.08', '0.52', '0.60', '2.25', '11.09', '45.75', '222.70', '522.53', '691.27', '750.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="79" model="medfreq.frequency">
+    <field type="CharField" name="name">Chordoma</field>
+    <field type="CharField" name="frequencies">['0.06', '0.49', '0.57', '12.00', '72.50', '225.0', '475.19', '527.00', '667.00', '752.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="80" model="medfreq.frequency">
+    <field type="CharField" name="name">Chorioretinitis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.57', '0.87', '10.89', '95.19', '300.00', '436.42', '563.19', '707.26', '978.85']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="81" model="medfreq.frequency">
+    <field type="CharField" name="name">Chronic Disease</field>
+    <field type="CharField" name="frequencies">['0.01', '0.23', '0.73', '0.85', '5.87', '73.25', '132.50', '342.50', '596.50', '875.27']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="82" model="medfreq.frequency">
+    <field type="CharField" name="name">Clostridium Infections</field>
+    <field type="CharField" name="frequencies">['0.16', '0.49', '0.62', '0.85', '7.50', '5.50', '132.50', '325.75', '480.50', '851.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="83" model="medfreq.frequency">
+    <field type="CharField" name="name">Common Cold</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '0.85', '7.50', '120.00', '247.50', '472.50', '725.75', '850.00', '975.98']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="84" model="medfreq.frequency">
+    <field type="CharField" name="name">Conjunctivitis</field>
+    <field type="CharField" name="frequencies">['0.17', '0.52', '0.60', '0.85', '225.53', '327.50', '455.95', '760.00', '850.00', '969.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="85" model="medfreq.frequency">
+    <field type="CharField" name="name">Cough</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '0.91', '7.50', '12.08', '145.50', '442.00', '574.50', '797.50', '983.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="86" model="medfreq.frequency">
+    <field type="CharField" name="name">Craniosynostoses</field>
+    <field type="CharField" name="frequencies">['0.03', '0.32', '0.73', '0.95', '10.30', '21.80', '85.29', '234.51', '482.50', '717.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="87" model="medfreq.frequency">
+    <field type="CharField" name="name">Crohn Disease</field>
+    <field type="CharField" name="frequencies">['0.03', '0.41', '0.62', '0.95', '7.50', '25.75', '87.50', '480.00', '525.29', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="88" model="medfreq.frequency">
+    <field type="CharField" name="name">Cross Infection</field>
+    <field type="CharField" name="frequencies">['0.06', '0.23', '0.73', '0.83', '2.75', '17.50', '62.50', '195.95', '491.00', '769.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="89" model="medfreq.frequency">
+    <field type="CharField" name="name">Currarino Syndrome</field>
+    <field type="CharField" name="frequencies">['0.07', '0.37', '0.85', '2.50', '3.00', '62.50', '95.75', '375.29', '633.91', '875.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="90" model="medfreq.frequency">
+    <field type="CharField" name="name">Cutis Laxa</field>
+    <field type="CharField" name="frequencies">['0.01', '0.37', '0.85', '2.75', '3.00', '65.75', '95.29', '475.00', '650.00', '825.75']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="91" model="medfreq.frequency">
+    <field type="CharField" name="name">Cystinosis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.32', '0.73', '0.83', '12.33', '20.00', '85.00', '150.00', '95.31', '122.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="92" model="medfreq.frequency">
+    <field type="CharField" name="name">Cystinuria</field>
+    <field type="CharField" name="frequencies">['0.23', '0.85', '10.53', '28.21', '17.50', '41.90', '62.50', '150.00', '326.07', '975.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="93" model="medfreq.frequency">
+    <field type="CharField" name="name">De Lange Syndrome</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '0.70', '7.50', '13.52', '45.53', '137.50', '572.50', '715.70', '903.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="94" model="medfreq.frequency">
+    <field type="CharField" name="name">Deglutition Disorders</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.62', '2.75', '5.50', '40.00', '100.00', '522.53', '682.45', '754.19']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="95" model="medfreq.frequency">
+    <field type="CharField" name="name">Depressive Disorder</field>
+    <field type="CharField" name="frequencies">['0.14', '0.22', '0.62', '7.50', '15.50', '41.09', '465.69', '597.50', '722.70', '875.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="96" model="medfreq.frequency">
+    <field type="CharField" name="name">Dermatitis, Exfoliative</field>
+    <field type="CharField" name="frequencies">['0.03', '0.41', '1.62', '8.95', '109.50', '252.93', '387.50', '691.02', '822.06', '928.33']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="97" model="medfreq.frequency">
+    <field type="CharField" name="name">Dermatomycoses</field>
+    <field type="CharField" name="frequencies">['0.02', '0.75', '2.62', '5.95', '8.50', '125.69', '262.50', '592.50', '758.57', '823.44']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="98" model="medfreq.frequency">
+    <field type="CharField" name="name">Dermatomyositis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.75', '2.42', '5.35', '8.52', '125.69', '262.50', '561.50', '728.57', '802.44']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="99" model="medfreq.frequency">
+    <field type="CharField" name="name">Diabetes Mellitus</field>
+    <field type="CharField" name="frequencies">['0.15', '0.89', '1.70', '6.97', '12.89', '62.30', '512.50', '637.50', '895.00', '951.30']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="100" model="medfreq.frequency">
+    <field type="CharField" name="name">Dientamoebiasis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.37', '0.83', '2.50', '3.00', '62.50', '195.31', '375.00', '575.31', '875.69']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="101" model="medfreq.frequency">
+    <field type="CharField" name="name">DiGeorge Syndrome</field>
+    <field type="CharField" name="frequencies">['0.01', '0.37', '0.83', '2.50', '30.00', '67.52', '192.20', '475.31', '675.69', '819.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="102" model="medfreq.frequency">
+    <field type="CharField" name="name">Diphyllobothriasis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.24', '0.70', '7.50', '18.21', '145.50', '407.50', '712.50', '827.50', '921.06']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="103" model="medfreq.frequency">
+    <field type="CharField" name="name">Distal Trisomy </field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '3.95', '47.50', '87.50', '127.50', '325.90', '526.50', '708.57', '872.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="104" model="medfreq.frequency">
+    <field type="CharField" name="name">Dracunculiasis</field>
+    <field type="CharField" name="frequencies">['0.10', '0.57', '0.80', '54.71', '195.31', '352.50', '595.90', '619.34', '797.61', '891.27']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="105" model="medfreq.frequency">
+    <field type="CharField" name="name">Duodenal Ulcer</field>
+    <field type="CharField" name="frequencies">['0.17', '0.18', '0.93', '2.50', '15.00', '20.00', '45.31', '670.00', '725.90', '825.83']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="106" model="medfreq.frequency">
+    <field type="CharField" name="name">Dyslipidemias</field>
+    <field type="CharField" name="frequencies">['0.07', '0.23', '0.97', '14.03', '32.50', '72.91', '135.34', '497.50', '675.00', '954.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="107" model="medfreq.frequency">
+    <field type="CharField" name="name">Dyspepsia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.12', '17.85', '57.71', '122.02', '241.40', '485.83', '597.54', '725.38', '851.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="108" model="medfreq.frequency">
+    <field type="CharField" name="name">Dystonia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.50', '0.83', '11.70', '58.87', '330.21', '417.32', '653.02', '822.01', '971.32']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="109" model="medfreq.frequency">
+    <field type="CharField" name="name">Ecchymosis</field>
+    <field type="CharField" name="frequencies">['0.11', '0.55', '0.80', '23.50', '117.50', '252.50', '462.50', '596.50', '797.50', '975.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="110" model="medfreq.frequency">
+    <field type="CharField" name="name">Echinococcosis</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '5.85', '81.50', '127.55', '241.52', '471.50', '625.30', '853.00', '915.09']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="111" model="medfreq.frequency">
+    <field type="CharField" name="name">Ecthyma, Contagious</field>
+    <field type="CharField" name="frequencies">['0.15', '0.83', '7.62', '67.92', '197.50', '212.85', '405.00', '527.50', '716.50', '871.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="112" model="medfreq.frequency">
+    <field type="CharField" name="name">Ectodermal Dysplasia</field>
+    <field type="CharField" name="frequencies">['0.13', '0.52', '0.83', '8.50', '12.53', '145.83', '262.50', '397.50', '633.91', '825.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="113" model="medfreq.frequency">
+    <field type="CharField" name="name">Ectropion</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.95', '7.50', '127.50', '247.50', '465.00', '596.50', '655.72', '875.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="114" model="medfreq.frequency">
+    <field type="CharField" name="name">Eczema</field>
+    <field type="CharField" name="frequencies">['0.08', '0.41', '9.80', '87.50', '202.50', '345.00', '607.50', '725.83', '850.00', '924.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="115" model="medfreq.frequency">
+    <field type="CharField" name="name">Edema</field>
+    <field type="CharField" name="frequencies">['0.07', '0.23', '8.97', '77.50', '132.50', '232.50', '431.87', '602.53', '775.30', '852.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="116" model="medfreq.frequency">
+    <field type="CharField" name="name">Eisenmenger Complex</field>
+    <field type="CharField" name="frequencies">['0.02', '0.24', '0.70', '0.87', '2.50', '17.50', '75.34', '197.50', '315.70', '419.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="117" model="medfreq.frequency">
+    <field type="CharField" name="name">Embolism, Cholesterol</field>
+    <field type="CharField" name="frequencies">['0.05', '0.57', '0.92', '2.53', '12.34', '53.02', '78.30', '158.30', '257.02', '410.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="118" model="medfreq.frequency">
+    <field type="CharField" name="name">Encephalitis, Arbovirus</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.60', '0.95', '7.50', '150.89', '455.34', '527.50', '896.50', '917.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="119" model="medfreq.frequency">
+    <field type="CharField" name="name">Encephalocele</field>
+    <field type="CharField" name="frequencies">['0.13', '0.57', '0.78', '0.97', '2.50', '87.50', '323.98', '665.70', '822.70', '906.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="120" model="medfreq.frequency">
+    <field type="CharField" name="name">Enchondromatosis</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.87', '15.83', '23.21', '212.53', '247.58', '465.34', '695.02', '792.51']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="121" model="medfreq.frequency">
+    <field type="CharField" name="name">Endocrine Cancer</field>
+    <field type="CharField" name="frequencies">['0.14', '0.46', '0.75', '2.09', '32.50', '47.50', '117.50', '396.50', '655.72', '825.54']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="122" model="medfreq.frequency">
+    <field type="CharField" name="name">Endoscopy</field>
+    <field type="CharField" name="frequencies">['0.07', '0.46', '3.21', '5.17', '17.50', '127.50', '351.21', '611.00', '706.50', '921.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="123" model="medfreq.frequency">
+    <field type="CharField" name="name">Entropion</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.87', '5.71', '27.50', '223.54', '245.54', '262.02', '692.33', '892.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="124" model="medfreq.frequency">
+    <field type="CharField" name="name">Ergotism</field>
+    <field type="CharField" name="frequencies">['0.07', '0.52', '0.68', '0.90', '2.75', '5.00', '15.36', '0.01', '325.54', '533.63']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="125" model="medfreq.frequency">
+    <field type="CharField" name="name">Escherichia coli Infections</field>
+    <field type="CharField" name="frequencies">['0.16', '0.41', '0.73', '0.83', '7.50', '27.50', '157.50', '425.00', '610.50', '826.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="126" model="medfreq.frequency">
+    <field type="CharField" name="name">Esophageal Achalasia</field>
+    <field type="CharField" name="frequencies">['0.22', '0.65', '0.83', '7.50', '120.00', '357.50', '425.36', '651.00', '754.37', '819.68']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="127" model="medfreq.frequency">
+    <field type="CharField" name="name">Esotropia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '0.95', '5.25', '25.51', '42.50', '162.52', '492.57', '675.51', '828.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="128" model="medfreq.frequency">
+    <field type="CharField" name="name">Essential Tremor</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '81.30', '105.71', '221.50', '337.50', '570.51', '691.51', '775.48', '971.55']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="129" model="medfreq.frequency">
+    <field type="CharField" name="name">Exanthema Subitum</field>
+    <field type="CharField" name="frequencies">['0.07', '0.50', '0.95', '7.50', '10.53', '132.50', '242.50', '392.01', '629.26', '915.48']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="130" model="medfreq.frequency">
+    <field type="CharField" name="name">Exfoliation Syndrome</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.73', '0.85', '5.36', '147.25', '335.48', '487.50', '695.83', '875.36']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="131" model="medfreq.frequency">
+    <field type="CharField" name="name">Exostoses</field>
+    <field type="CharField" name="frequencies">['0.07', '0.50', '0.97', '9.00', '11.09', '32.50', '42.50', '190.00', '450.00', '856.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="132" model="medfreq.frequency">
+    <field type="CharField" name="name">Exotropia</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '12.75', '38.85', '105.25', '217.25', '435.36', '617.52', '791.48', '877.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="133" model="medfreq.frequency">
+    <field type="CharField" name="name">Eye Abnormalities</field>
+    <field type="CharField" name="frequencies">['0.10', '0.50', '0.70', '2.97', '15.87', '37.50', '77.50', '157.50', '326.50', '722.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="134" model="medfreq.frequency">
+    <field type="CharField" name="name">Eye Hemorrhage</field>
+    <field type="CharField" name="frequencies">['0.03', '0.23', '0.73', '0.80', '12.69', '5.17', '32.50', '93.50', '175.00', '526.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="135" model="medfreq.frequency">
+    <field type="CharField" name="name">Fabry Disease</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.73', '2.50', '5.25', '50.00', '275.36', '536.42', '655.20', '755.49']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="136" model="medfreq.frequency">
+    <field type="CharField" name="name">Facial Hemiatrophy</field>
+    <field type="CharField" name="frequencies">['0.10', '0.50', '0.70', '0.97', '5.83', '17.50', '87.50', '157.50', '596.50', '857.77']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="137" model="medfreq.frequency">
+    <field type="CharField" name="name">Facial Nerve Diseases</field>
+    <field type="CharField" name="frequencies">['0.08', '0.32', '0.610', '2.27', '44.25', '115.71', '255.48', '485.00', '697.50', '856.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="138" model="medfreq.frequency">
+    <field type="CharField" name="name">Facial Neuralgia</field>
+    <field type="CharField" name="frequencies">['0.60', '0.87', '2.25', '5.17', '55.83', '115.71', '255.48', '485.00', '697.50', '856.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="139" model="medfreq.frequency">
+    <field type="CharField" name="name">Facial Paralysis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.32', '0.610', '2.27', '44.25', '115.71', '255.48', '485.00', '697.50', '856.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="140" model="medfreq.frequency">
+    <field type="CharField" name="name">Factor X Deficiency</field>
+    <field type="CharField" name="frequencies">['0.01', '0.24', '0.65', '5.48', '67.25', '177.20', '252.50', '562.50', '793.50', '814.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="141" model="medfreq.frequency">
+    <field type="CharField" name="name">Factor XI Deficiency</field>
+    <field type="CharField" name="frequencies">['0.10', '0.26', '0.68', '7.50', '11.09', '45.00', '325.43', '515.70', '682.45', '755.49']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="142" model="medfreq.frequency">
+    <field type="CharField" name="name">Factor XII Deficiency</field>
+    <field type="CharField" name="frequencies">['0.05', '0.12', '0.60', '0.87', '2.25', '45.00', '325.43', '515.70', '682.45', '755.49']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="143" model="medfreq.frequency">
+    <field type="CharField" name="name">Fasciitis, Necrotizing</field>
+    <field type="CharField" name="frequencies">['0.16', '0.57', '0.95', '3.87', '72.25', '125.43', '387.50', '525.91', '712.50', '825.44']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="144" model="medfreq.frequency">
+    <field type="CharField" name="name">Fatty Liver</field>
+    <field type="CharField" name="frequencies">['0.04', '0.49', '0.78', '7.50', '8.00', '15.43', '62.50', '325.00', '515.70', '655.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="145" model="medfreq.frequency">
+    <field type="CharField" name="name">Fecal Incontinence</field>
+    <field type="CharField" name="frequencies">['0.13', '0.35', '0.85', '5.75', '17.50', '42.50', '221.02', '425.43', '771.00', '815.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="146" model="medfreq.frequency">
+    <field type="CharField" name="name">Fever</field>
+    <field type="CharField" name="frequencies">['0.12', '0.23', '0.83', '5.50', '13.93', '12.71', '92.50', '376.29', '519.34', '652.43']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="147" model="medfreq.frequency">
+    <field type="CharField" name="name">Fibromuscular Dysplasia</field>
+    <field type="CharField" name="frequencies">['0.02', '0.52', '0.75', '2.75', '5.25', '47.50', '275.00', '424.37', '560.00', '815.96']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="148" model="medfreq.frequency">
+    <field type="CharField" name="name">Fibromyalgia</field>
+    <field type="CharField" name="frequencies">['0.04', '0.49', '0.78', '7.50', '118.00', '215.43', '362.51', '422.06', '608.41', '751.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="149" model="medfreq.frequency">
+    <field type="CharField" name="name">Food Poisoning</field>
+    <field type="CharField" name="frequencies">['0.12', '0.23', '0.83', '5.50', '12.71', '83.93', '192.50', '475.44', '624.37', '882.45']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="150" model="medfreq.frequency">
+    <field type="CharField" name="name">Fournier Gangrene</field>
+    <field type="CharField" name="frequencies">['0.08', '0.55', '0.57', '7.50', '18.00', '121.09', '242.90', '360.00', '596.50', '975.43']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="151" model="medfreq.frequency">
+    <field type="CharField" name="name">Fractures, Bone</field>
+    <field type="CharField" name="frequencies">['0.13', '0.57', '0.78', '0.93', '32.50', '217.50', '552.71', '743.01', '815.91', '913.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="152" model="medfreq.frequency">
+    <field type="CharField" name="name">Fragile X Syndrome</field>
+    <field type="CharField" name="frequencies">['0.23', '0.62', '0.95', '7.50', '5.50', '33.98', '145.43', '295.30', '375.43', '522.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="153" model="medfreq.frequency">
+    <field type="CharField" name="name">Fucosidosis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.24', '0.68', '0.95', '2.50', '7.50', '32.50', '96.50', '275.47', '522.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="154" model="medfreq.frequency">
+    <field type="CharField" name="name">Funnel Chest</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.73', '0.80', '5.25', '7.25', '35.37', '95.91', '215.50', '510.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="155" model="medfreq.frequency">
+    <field type="CharField" name="name">Furunculosis</field>
+    <field type="CharField" name="frequencies">['0.20', '0.46', '0.60', '2.25', '12.85', '27.50', '42.50', '96.50', '236.42', '455.21']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="156" model="medfreq.frequency">
+    <field type="CharField" name="name">Fusobacterium Infections</field>
+    <field type="CharField" name="frequencies">['0.19', '0.18', '0.75', '9.00', '11.09', '22.50', '47.50', '115.70', '377.91', '470.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="157" model="medfreq.frequency">
+    <field type="CharField" name="name">Galactosemias</field>
+    <field type="CharField" name="frequencies">['0.11', '0.24', '0.65', '0.83', '2.50', '127.50', '255.47', '387.50', '696.50', '825.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="158" model="medfreq.frequency">
+    <field type="CharField" name="name">Gallbladder Diseases</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '0.95', '5.37', '22.50', '42.50', '162.50', '292.50', '442.20', '524.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="159" model="medfreq.frequency">
+    <field type="CharField" name="name">Gastroesophageal Reflux</field>
+    <field type="CharField" name="frequencies">['0.23', '0.62', '0.97', '7.50', '5.50', '13.93', '45.37', '95.47', '376.29', '422.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="160" model="medfreq.frequency">
+    <field type="CharField" name="name">Gastrointestinal Disease</field>
+    <field type="CharField" name="frequencies">['0.02', '0.52', '0.70', '0.90', '2.50', '5.25', '15.47', '142.50', '292.50', '821.06']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="161" model="medfreq.frequency">
+    <field type="CharField" name="name">Gastroschisis</field>
+    <field type="CharField" name="frequencies">['0.16', '0.49', '0.73', '0.95', '12.69', '5.26', '12.71', '92.50', '269.71', '475.47']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="162" model="medfreq.frequency">
+    <field type="CharField" name="name">Gaucher Disease</field>
+    <field type="CharField" name="frequencies">['0.05', '0.24', '0.70', '0.95', '2.50', '7.50', '32.50', '125.37', '319.34', '519.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="163" model="medfreq.frequency">
+    <field type="CharField" name="name">Genital Diseases, Female</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.60', '0.87', '2.25', '5.00', '55.47', '172.50', '397.50', '796.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="164" model="medfreq.frequency">
+    <field type="CharField" name="name">Genital Diseases, Male</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.60', '0.87', '2.25', '5.00', '55.47', '329.88', '401.22', '721.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="165" model="medfreq.frequency">
+    <field type="CharField" name="name">Giant Cell Arteritis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.75', '0.80', '5.25', '7.25', '35.00', '95.47', '226.32', '422.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="166" model="medfreq.frequency">
+    <field type="CharField" name="name">Giardiasis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.35', '0.60', '0.87', '2.25', '5.29', '55.47', '97.50', '324.37', '425.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="167" model="medfreq.frequency">
+    <field type="CharField" name="name">Gingivitis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.12', '0.60', '0.87', '2.25', '22.50', '187.50', '396.50', '587.50', '696.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="168" model="medfreq.frequency">
+    <field type="CharField" name="name">Glaucoma</field>
+    <field type="CharField" name="frequencies">['0.16', '0.55', '0.95', '5.29', '7.25', '32.50', '137.50', '326.07', '490.00', '515.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="169" model="medfreq.frequency">
+    <field type="CharField" name="name">Glioma</field>
+    <field type="CharField" name="frequencies">['0.05', '0.49', '9.73', '88.00', '105.75', '237.25', '413.93', '651.20', '732.59', '973.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="170" model="medfreq.frequency">
+    <field type="CharField" name="name">Glutaric Acidemia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '0.95', '5.29', '95.52', '142.50', '362.50', '402.50', '590.00', '822.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="171" model="medfreq.frequency">
+    <field type="CharField" name="name">Glycogen Storage Disease</field>
+    <field type="CharField" name="frequencies">['0.03', '0.37', '0.95', '2.50', '7.50', '72.50', '96.50', '375.37', '269.71', '377.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="172" model="medfreq.frequency">
+    <field type="CharField" name="name">Goldenhar Syndrome</field>
+    <field type="CharField" name="frequencies">['0.01', '0.25', '0.57', '0.87', '2.25', '2.50', '96.50', '226.32', '515.70', '682.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="173" model="medfreq.frequency">
+    <field type="CharField" name="name">Gonadal Disorders</field>
+    <field type="CharField" name="frequencies">['0.37', '0.95', '2.50', '7.50', '67.50', '96.50', '375.52', '475.91', '525.91', '801.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="174" model="medfreq.frequency">
+    <field type="CharField" name="name">Gonorrhea</field>
+    <field type="CharField" name="frequencies">['0.20', '0.25', '0.57', '13.61', '23.25', '221.75', '396.50', '643.74', '725.37', '971.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="175" model="medfreq.frequency">
+    <field type="CharField" name="name">Granuloma Annulare</field>
+    <field type="CharField" name="frequencies">['0.50', '0.70', '0.97', '7.50', '88.00', '370.50', '547.50', '656.50', '725.37', '825.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="176" model="medfreq.frequency">
+    <field type="CharField" name="name">Granuloma Inguinale</field>
+    <field type="CharField" name="frequencies">['0.03', '0.50', '0.70', '0.97', '88.00', '370.50', '547.50', '656.50', '725.37', '825.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="177" model="medfreq.frequency">
+    <field type="CharField" name="name">Graves Disease</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '55.61', '119.87', '232.25', '308.29', '455.52', '585.37', '697.50', '825.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="178" model="medfreq.frequency">
+    <field type="CharField" name="name">Gyrate Atrophy</field>
+    <field type="CharField" name="frequencies">['0.05', '0.66', '1.32', '7.50', '17.50', '15.91', '151.20', '231.20', '341.00', '525.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="179" model="medfreq.frequency">
+    <field type="CharField" name="name">H1N1- Swine Flu</field>
+    <field type="CharField" name="frequencies">['0.02', '0.45', '0.65', '2.21', '6.15', '10.23', '15.91', '30.28', '77.50', '327.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="180" model="medfreq.frequency">
+    <field type="CharField" name="name">H5N1- Bird Flu</field>
+    <field type="CharField" name="frequencies">['0.02', '0.45', '0.65', '2.74', '8.32', '11.69', '25.12', '77.01', '351.29', '501.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="181" model="medfreq.frequency">
+    <field type="CharField" name="name">Halitosis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.12', '0.95', '2.50', '22.50', '50.00', '126.16', '325.29', '519.34', '682.45']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="182" model="medfreq.frequency">
+    <field type="CharField" name="name">Hallux Valgus</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '0.65', '5.75', '72.25', '123.00', '502.50', '622.88', '713.23', '807.73']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="183" model="medfreq.frequency">
+    <field type="CharField" name="name">Hamartoma</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.73', '2.50', '5.52', '50.00', '93.50', '423.01', '568.43', '642.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="184" model="medfreq.frequency">
+    <field type="CharField" name="name">Hartnup Disease</field>
+    <field type="CharField" name="frequencies">['0.16', '0.55', '0.95', '5.75', '67.25', '132.50', '237.50', '391.50', '421.22', '515.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="185" model="medfreq.frequency">
+    <field type="CharField" name="name">Headache</field>
+    <field type="CharField" name="frequencies">['0.16', '0.55', '0.95', '7.50', '22.50', '42.50', '96.50', '275.52', '515.70', '650.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="186" model="medfreq.frequency">
+    <field type="CharField" name="name">Hearing Disorders</field>
+    <field type="CharField" name="frequencies">['0.01', '0.50', '0.93', '2.25', '5.29', '30.00', '142.50', '350.00', '422.06', '775.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="187" model="medfreq.frequency">
+    <field type="CharField" name="name">Hearing Loss, Sudden</field>
+    <field type="CharField" name="frequencies">['0.04', '0.50', '0.95', '2.25', '10.53', '105.91', '242.50', '391.28', '425.52', '815.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="188" model="medfreq.frequency">
+    <field type="CharField" name="name">Heart Catheterization</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '0.80', '1.52', '15.29', '52.50', '62.50', '196.50', '412.50', '673.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="189" model="medfreq.frequency">
+    <field type="CharField" name="name">Heart Diseases</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.70', '2.75', '7.25', '50.00', '67.50', '115.70', '356.72', '475.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="190" model="medfreq.frequency">
+    <field type="CharField" name="name">Heart Septal Defects</field>
+    <field type="CharField" name="frequencies">['0.14', '0.22', '0.65', '5.29', '7.85', '51.02', '167.50', '324.37', '551.03', '725.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="191" model="medfreq.frequency">
+    <field type="CharField" name="name">Heart Valve Diseases</field>
+    <field type="CharField" name="frequencies">['0.11', '0.22', '0.73', '3.75', '7.05', '51.27', '137.50', '236.42', '472.29', '851.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="192" model="medfreq.frequency">
+    <field type="CharField" name="name">Heat Stress Disorders</field>
+    <field type="CharField" name="frequencies">['0.07', '0.41', '0.73', '0.85', '7.50', '20.00', '57.50', '150.00', '225.52', '322.06']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="193" model="medfreq.frequency">
+    <field type="CharField" name="name">Helminthiasis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.49', '0.73', '1.27', '12.33', '5.87', '112.71', '252.50', '492.50', '675.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="194" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemangioma</field>
+    <field type="CharField" name="frequencies">['0.15', '0.24', '0.70', '0.83', '2.50', '17.50', '432.50', '555.91', '625.29', '775.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="195" model="medfreq.frequency">
+    <field type="CharField" name="name">Hematologic Diseases</field>
+    <field type="CharField" name="frequencies">['0.07', '0.25', '0.57', '0.87', '2.25', '72.50', '96.50', '226.32', '526.16', '682.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="196" model="medfreq.frequency">
+    <field type="CharField" name="name">Hematoma, Subdural</field>
+    <field type="CharField" name="frequencies">['0.21', '0.25', '4.57', '42.69', '112.25', '412.50', '596.50', '643.74', '825.52', '971.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="197" model="medfreq.frequency">
+    <field type="CharField" name="name">Hematospermia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '0.65', '5.25', '73.25', '147.18', '351.52', '412.58', '539.21', '725.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="198" model="medfreq.frequency">
+    <field type="CharField" name="name">Hematuria</field>
+    <field type="CharField" name="frequencies">['0.01', '0.26', '0.68', '2.28', '12.85', '45.23', '167.50', '396.50', '425.52', '625.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="199" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemianopsia</field>
+    <field type="CharField" name="frequencies">['0.13', '0.58', '0.73', '2.58', '5.78', '145.91', '372.52', '428.01', '511.19', '605.59']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="200" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemiplegia</field>
+    <field type="CharField" name="frequencies">['0.11', '0.49', '0.78', '2.25', '77.50', '102.71', '262.50', '455.91', '837.50', '910.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="201" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemochromatosis</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.85', '189.59', '287.58', '342.52', '467.50', '591.29', '619.34', '897.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="202" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemorrhoids</field>
+    <field type="CharField" name="frequencies">['0.10', '0.57', '2.83', '12.33', '30.00', '87.53', '196.50', '551.03', '777.30', '866.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="203" model="medfreq.frequency">
+    <field type="CharField" name="name">Hemosiderosis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.95', '7.50', '10.53', '20.00', '57.50', '325.56', '497.61', '660.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="204" model="medfreq.frequency">
+    <field type="CharField" name="name">Hepatitis</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.87', '5.29', '27.50', '45.56', '65.29', '95.22', '182.50', '233.45']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="205" model="medfreq.frequency">
+    <field type="CharField" name="name">Hepatitis, Chronic</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.87', '5.29', '27.50', '45.56', '65.29', '95.22', '182.50', '233.45']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="206" model="medfreq.frequency">
+    <field type="CharField" name="name">Hernia</field>
+    <field type="CharField" name="frequencies">['0.14', '0.22', '0.73', '13.39', '5.58', '150.00', '475.85', '736.42', '819.34', '915.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="207" model="medfreq.frequency">
+    <field type="CharField" name="name">Hernia, Hiatal</field>
+    <field type="CharField" name="frequencies">['0.01', '0.30', '0.62', '51.25', '117.25', '245.56', '367.50', '625.22', '816.72', '905.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="208" model="medfreq.frequency">
+    <field type="CharField" name="name">Hernia, Umbilical</field>
+    <field type="CharField" name="frequencies">['0.01', '0.30', '0.60', '2.50', '117.25', '245.56', '367.50', '625.22', '816.72', '905.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="209" model="medfreq.frequency">
+    <field type="CharField" name="name">Herpes Labialis</field>
+    <field type="CharField" name="frequencies">['0.11', '0.55', '1.23', '5.58', '27.50', '137.50', '372.50', '495.22', '734.25', '824.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="210" model="medfreq.frequency">
+    <field type="CharField" name="name">Herpes Simplex</field>
+    <field type="CharField" name="frequencies">['0.12', '0.55', '0.95', '5.58', '22.50', '137.50', '372.50', '495.22', '734.25', '824.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="211" model="medfreq.frequency">
+    <field type="CharField" name="name">Hirsutism</field>
+    <field type="CharField" name="frequencies">['0.11', '0.49', '0.78', '2.52', '7.53', '123.42', '263.02', '515.78', '682.02', '752.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="212" model="medfreq.frequency">
+    <field type="CharField" name="name">Histidinemia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.85', '7.50', '117.50', '142.50', '267.50', '395.91', '625.70', '796.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="213" model="medfreq.frequency">
+    <field type="CharField" name="name">Histiocytosis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.12', '0.97', '7.50', '12.69', '20.00', '57.50', '224.94', '426.16', '563.19']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="214" model="medfreq.frequency">
+    <field type="CharField" name="name">Histoplasmosis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.23', '0.83', '2.50', '13.93', '12.71', '55.56', '93.50', '375.87', '426.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="215" model="medfreq.frequency">
+    <field type="CharField" name="name">HIV Infections</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.87', '5.58', '22.00', '30.00', '47.50', '162.82', '388.90', '456.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="216" model="medfreq.frequency">
+    <field type="CharField" name="name">Hodgkin Disease</field>
+    <field type="CharField" name="frequencies">['0.02', '0.12', '0.95', '13.39', '22.50', '50.00', '60.00', '93.50', '234.11', '475.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="217" model="medfreq.frequency">
+    <field type="CharField" name="name">Holoprosencephaly</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '0.65', '0.90', '2.50', '27.50', '55.91', '119.34', '393.50', '536.42']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="218" model="medfreq.frequency">
+    <field type="CharField" name="name">Homocystinuria</field>
+    <field type="CharField" name="frequencies">['0.24', '0.73', '0.83', '7.50', '30.00', '57.50', '95.87', '97.50', '424.94', '562.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="219" model="medfreq.frequency">
+    <field type="CharField" name="name">Hookworm Infections</field>
+    <field type="CharField" name="frequencies">['0.11', '0.55', '1.20', '7.50', '30.00', '57.50', '72.50', '95.56', '133.63', '419.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="220" model="medfreq.frequency">
+    <field type="CharField" name="name">Horner Syndrome</field>
+    <field type="CharField" name="frequencies">['0.07', '0.50', '0.97', '9.00', '12.33', '32.50', '142.50', '320.00', '425.87', '525.56']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="221" model="medfreq.frequency">
+    <field type="CharField" name="name">Huntington Disease</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.75', '3.85', '52.25', '177.25', '400.00', '563.19', '642.91', '976.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="222" model="medfreq.frequency">
+    <field type="CharField" name="name">Hydatidiform Mole</field>
+    <field type="CharField" name="frequencies">['0.08', '0.25', '0.75', '0.80', '2.50', '5.78', '95.87', '175.56', '524.94', '691.27']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="223" model="medfreq.frequency">
+    <field type="CharField" name="name">Hydrocephalus</field>
+    <field type="CharField" name="frequencies">['0.07', '0.37', '0.87', '7.50', '8.00', '67.50', '195.87', '427.02', '573.82', '854.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="224" model="medfreq.frequency">
+    <field type="CharField" name="name">Hydronephrosis</field>
+    <field type="CharField" name="frequencies">['0.20', '0.25', '0.75', '2.53', '3.40', '5.58', '95.87', '175.91', '425.87', '571.40']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="225" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperacusis</field>
+    <field type="CharField" name="frequencies">['0.04', '0.24', '0.57', '17.50', '86.53', '132.75', '342.51', '721.20', '823.10', '919.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="226" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperaldosteronism</field>
+    <field type="CharField" name="frequencies">['0.08', '0.26', '0.78', '2.50', '17.50', '255.87', '387.50', '405.00', '645.87', '723.58']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="227" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypercalcemia</field>
+    <field type="CharField" name="frequencies">['0.11', '0.49', '14.73', '82.50', '217.50', '344.01', '671.52', '753.21', '871.02', '975.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="228" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypercapnia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.93', '7.50', '25.00', '35.87', '87.50', '93.50', '234.51', '523.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="229" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypercholesterolemia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.41', '0.95', '2.50', '5.50', '15.58', '187.50', '292.50', '619.34', '815.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="230" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperhidrosis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.12', '0.85', '7.50', '32.50', '40.00', '133.63', '226.32', '475.58', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="231" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperinsulinism</field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.85', '7.50', '8.00', '13.93', '185.79', '325.23', '741.34', '960.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="232" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperkalemia</field>
+    <field type="CharField" name="frequencies">['0.10', '0.57', '0.95', '12.85', '20.00', '37.50', '95.79', '250.00', '475.58', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="233" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperopia</field>
+    <field type="CharField" name="frequencies">['0.03', '0.46', '0.60', '8.85', '72.50', '115.78', '217.50', '493.50', '723.01', '825.79']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="234" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperoxaluria</field>
+    <field type="CharField" name="frequencies">['0.03', '0.32', '0.62', '0.80', '7.50', '2.50', '32.50', '90.00', '322.06', '524.94']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="235" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperpituitarism</field>
+    <field type="CharField" name="frequencies">['0.13', '0.35', '0.70', '0.85', '5.79', '77.25', '130.00', '296.50', '625.58', '915.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="236" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyperprolactinemia</field>
+    <field type="CharField" name="frequencies">['0.03', '0.52', '0.68', '0.90', '7.50', '88.50', '151.79', '285.00', '325.79', '819.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="237" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypertension</field>
+    <field type="CharField" name="frequencies">['0.03', '0.40', '0.78', '1.00', '2.50', '33.39', '75.79', '185.58', '425.79', '719.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="238" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypertension, Pulmonary</field>
+    <field type="CharField" name="frequencies">['0.14', '0.40', '0.78', '1.00', '2.50', '12.33', '15.58', '52.50', '225.79', '424.94']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="239" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypervitaminosis A</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '0.95', '5.50', '17.50', '137.50', '262.50', '393.50', '775.79', '815.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="240" model="medfreq.frequency">
+    <field type="CharField" name="name">Hyphema</field>
+    <field type="CharField" name="frequencies">['0.11', '0.57', '0.95', '5.50', '217.50', '117.50', '162.50', '393.50', '677.91', '797.61']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="241" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypocalcemia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.50', '0.85', '5.50', '32.50', '125.79', '270.00', '492.50', '658.57', '824.94']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="242" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypoglycemia</field>
+    <field type="CharField" name="frequencies">['0.15', '0.35', '0.62', '0.93', '7.50', '115.09', '252.50', '472.50', '693.510', '825.79']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="243" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypogonadism</field>
+    <field type="CharField" name="frequencies">['0.10', '0.50', '0.78', '0.85', '5.58', '67.50', '137.50', '285.79', '495.80', '726.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="244" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypohidrosis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.55', '0.87', '10.72', '27.50', '127.50', '335.58', '525.61', '826.32', '919.55']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="245" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypokalemia</field>
+    <field type="CharField" name="frequencies">['0.07', '0.12', '0.75', '0.83', '32.75', '107.50', '247.50', '350.00', '476.29', '605.68']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="246" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypospadias</field>
+    <field type="CharField" name="frequencies">['0.13', '0.57', '0.73', '0.85', '13.93', '45.52', '132.02', '255.10', '775.61', '813.63']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="247" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypotension</field>
+    <field type="CharField" name="frequencies">['0.02', '0.24', '0.85', '37.50', '101.32', '221.10', '419.34', '562.91', '709.83', '976.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="248" model="medfreq.frequency">
+    <field type="CharField" name="name">Hypoxia, Brain</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '0.80', '5.50', '17.50', '32.50', '151.27', '257.46', '413.91', '692.27']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="249" model="medfreq.frequency">
+    <field type="CharField" name="name">Ichthyosis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.18', '0.65', '0.80', '33.52', '72.50', '270.96', '321.80', '505.67', '715.28']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="250" model="medfreq.frequency">
+    <field type="CharField" name="name">IgA Deficiency</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.70', '0.87', '5.78', '7.25', '30.00', '96.50', '322.06', '519.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="251" model="medfreq.frequency">
+    <field type="CharField" name="name">Inflammation</field>
+    <field type="CharField" name="frequencies">['0.08', '0.12', '0.60', '0.80', '2.50', '30.98', '103.00', '362.50', '692.01', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="252" model="medfreq.frequency">
+    <field type="CharField" name="name">Insulinoma</field>
+    <field type="CharField" name="frequencies">['0.01', '0.32', '0.70', '0.87', '5.25', '32.50', '60.00', '125.68', '225.65', '275.68']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="253" model="medfreq.frequency">
+    <field type="CharField" name="name">Intracranial Aneurysm</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '0.57', '7.50', '10.72', '36.21', '142.50', '321.00', '415.70', '775.68']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="254" model="medfreq.frequency">
+    <field type="CharField" name="name">Iritis</field>
+    <field type="CharField" name="frequencies">['0.01', '0.25', '0.87', '11.09', '7.50', '12.71', '85.68', '132.50', '353.50', '855.08']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="255" model="medfreq.frequency">
+    <field type="CharField" name="name">Ivemark Syndrome</field>
+    <field type="CharField" name="frequencies">['0.16', '0.49', '0.62', '0.85', '7.50', '162.50', '281.20', '492.52', '675.62', '825.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="256" model="medfreq.frequency">
+    <field type="CharField" name="name">Jacobsen Syndrome</field>
+    <field type="CharField" name="frequencies">['0.18', '0.78', '0.85', '13.61', '7.50', '27.50', '95.62', '375.67', '523.01', '682.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="257" model="medfreq.frequency">
+    <field type="CharField" name="name">Jaundice</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.62', '0.97', '7.50', '12.05', '152.50', '293.50', '315.62', '496.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="258" model="medfreq.frequency">
+    <field type="CharField" name="name">Jaw Diseases</field>
+    <field type="CharField" name="frequencies">['0.19', '0.18', '0.65', '9.00', '32.39', '119.50', '232.50', '721.67', '831.00', '925.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="259" model="medfreq.frequency">
+    <field type="CharField" name="name">Job's Syndrome</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.70', '33.47', '288.75', '351.00', '432.50', '601.23', '719.01', '851.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="260" model="medfreq.frequency">
+    <field type="CharField" name="name">Joint Diseases</field>
+    <field type="CharField" name="frequencies">['0.11', '0.24', '0.57', '38.83', '222.72', '317.50', '431.20', '572.50', '695.67', '905.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="261" model="medfreq.frequency">
+    <field type="CharField" name="name">KKallmann Syndrome</field>
+    <field type="CharField" name="frequencies">['0.12', '0.50', '0.85', '5.50', '32.50', '35.00', '75.85', '92.50', '125.62', '519.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="262" model="medfreq.frequency">
+    <field type="CharField" name="name">Kartagener Syndrome</field>
+    <field type="CharField" name="frequencies">['0.03', '0.50', '0.85', '7.50', '18.00', '27.50', '135.67', '225.62', '635.23', '917.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="263" model="medfreq.frequency">
+    <field type="CharField" name="name">Keloid</field>
+    <field type="CharField" name="frequencies">['0.10', '0.50', '0.78', '0.85', '5.62', '37.50', '131.98', '285.00', '624.11', '881.19']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="264" model="medfreq.frequency">
+    <field type="CharField" name="name">Keratitis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.55', '0.70', '0.87', '5.25', '7.25', '30.00', '55.23', '93.50', '325.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="265" model="medfreq.frequency">
+    <field type="CharField" name="name">Keratoconus</field>
+    <field type="CharField" name="frequencies">['0.19', '0.52', '0.68', '0.97', '57.50', '119.53', '325.62', '634.20', '701.50', '881.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="266" model="medfreq.frequency">
+    <field type="CharField" name="name">Keratosis, Actinic</field>
+    <field type="CharField" name="frequencies">['0.16', '0.49', '0.62', '0.85', '13.39', '71.50', '142.21', '392.50', '677.91', '715.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="267" model="medfreq.frequency">
+    <field type="CharField" name="name">Keratosis, Seborrheic</field>
+    <field type="CharField" name="frequencies">['0.12', '0.68', '0.85', '12.05', '7.50', '27.50', '97.50', '275.62', '523.01', '687.45']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="268" model="medfreq.frequency">
+    <field type="CharField" name="name">Kernicterus</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.60', '0.80', '2.75', '5.50', '50.00', '62.50', '90.00', '95.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="269" model="medfreq.frequency">
+    <field type="CharField" name="name">Kidney Diseases</field>
+    <field type="CharField" name="frequencies">['0.07', '0.18', '0.57', '7.50', '13.61', '122.50', '211.00', '305.85', '452.20', '591.43']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="270" model="medfreq.frequency">
+    <field type="CharField" name="name">Kidney Diseases, Cystic</field>
+    <field type="CharField" name="frequencies">['0.07', '0.18', '0.62', '7.50', '12.11', '40.00', '150.00', '524.94', '689.93', '752.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="271" model="medfreq.frequency">
+    <field type="CharField" name="name">Klebsiella Infections</field>
+    <field type="CharField" name="frequencies">['0.13', '0.41', '0.65', '0.97', '7.50', '10.47', '152.50', '493.50', '375.69', '475.54']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="272" model="medfreq.frequency">
+    <field type="CharField" name="name">Klinefelter Syndrome</field>
+    <field type="CharField" name="frequencies">['0.16', '0.55', '0.85', '2.50', '5.50', '27.50', '37.50', '150.00', '125.69', '515.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="273" model="medfreq.frequency">
+    <field type="CharField" name="name">Klippel-Feil Syndrome</field>
+    <field type="CharField" name="frequencies">['0.03', '0.52', '0.62', '0.93', '7.50', '12.71', '85.00', '96.50', '300.00', '225.54']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="274" model="medfreq.frequency">
+    <field type="CharField" name="name">Kuru</field>
+    <field type="CharField" name="frequencies">['0.07', '0.57', '0.85', '2.50', '35.12', '213.98', '307.50', '426.42', '613.01', '719.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="275" model="medfreq.frequency">
+    <field type="CharField" name="name">Labyrinthitis</field>
+    <field type="CharField" name="frequencies">['0.11', '0.24', '0.62', '0.85', '118.33', '209.18', '321.00', '544.10', '631.17', '705.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="276" model="medfreq.frequency">
+    <field type="CharField" name="name">Lactation Disorders</field>
+    <field type="CharField" name="frequencies">['0.19', '0.30', '0.62', '7.50', '8.00', '2.50', '32.50', '55.23', '150.00', '325.54']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="277" model="medfreq.frequency">
+    <field type="CharField" name="name">Laryngeal Diseases</field>
+    <field type="CharField" name="frequencies">['0.03', '0.24', '0.62', '0.83', '183.39', '315.62', '432.39', '691.50', '822.54', '923.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="278" model="medfreq.frequency">
+    <field type="CharField" name="name">Laryngitis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.24', '0.60', '0.80', '11.95', '52.71', '50.00', '197.50', '305.61', '432.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="279" model="medfreq.frequency">
+    <field type="CharField" name="name">Laryngomalacia</field>
+    <field type="CharField" name="frequencies">['0.19', '0.52', '0.78', '0.97', '7.50', '116.72', '205.54', '325.00', '422.50', '925.69']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="280" model="medfreq.frequency">
+    <field type="CharField" name="name">Laryngostenosis</field>
+    <field type="CharField" name="frequencies">['0.20', '0.25', '0.75', '2.50', '3.00', '5.58', '95.23', '175.54', '425.69', '571.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="281" model="medfreq.frequency">
+    <field type="CharField" name="name">Lassa Fever</field>
+    <field type="CharField" name="frequencies">['0.03', '0.24', '4.57', '57.50', '110.47', '321.82', '491.31', '681.28', '721.66', '839.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="282" model="medfreq.frequency">
+    <field type="CharField" name="name">Latex Hypersensitivity</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.65', '0.93', '7.50', '11.09', '52.50', '172.51', '383.50', '516.52']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="283" model="medfreq.frequency">
+    <field type="CharField" name="name">Leg Ulcer</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.60', '31.80', '191.50', '228.50', '321.00', '523.69', '691.00', '797.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="284" model="medfreq.frequency">
+    <field type="CharField" name="name">Leigh Disease</field>
+    <field type="CharField" name="frequencies">['0.46', '0.95', '7.50', '25.54', '15.69', '40.00', '60.00', '125.00', '300.00', '527.81']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="285" model="medfreq.frequency">
+    <field type="CharField" name="name">Leiomyoma</field>
+    <field type="CharField" name="frequencies">['0.85', '0.98', '1.80', '17.53', '213.23', '321.29', '423.69', '597.50', '862.50', '915.54']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="286" model="medfreq.frequency">
+    <field type="CharField" name="name">Leiomyosarcoma</field>
+    <field type="CharField" name="frequencies">['0.17', '0.18', '0.80', '7.50', '47.21', '132.580', '355.23', '486.90', '530.22', '841.69']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="287" model="medfreq.frequency">
+    <field type="CharField" name="name">Lentigo</field>
+    <field type="CharField" name="frequencies">['0.10', '0.57', '0.95', '7.50', '17.50', '37.50', '95.54', '225.69', '536.42', '689.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="288" model="medfreq.frequency">
+    <field type="CharField" name="name">Leptospirosis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '10.57', '37.29', '132.81', '313.75', '437.50', '520.50', '631.94', '771.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="289" model="medfreq.frequency">
+    <field type="CharField" name="name">Lesch-Nyhan Syndrome</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '0.62', '7.50', '2.50', '41.01', '119.34', '475.69', '527.00', '667.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="290" model="medfreq.frequency">
+    <field type="CharField" name="name">Leukemia</field>
+    <field type="CharField" name="frequencies">['0.07', '0.12', '0.60', '0.80', '2.50', '22.50', '72.50', '421.39', '739.10', '905.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="291" model="medfreq.frequency">
+    <field type="CharField" name="name">Leukopenia</field>
+    <field type="CharField" name="frequencies">['0.02', '0.50', '0.85', '2.50', '7.50', '15.69', '35.54', '125.00', '225.69', '377.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="292" model="medfreq.frequency">
+    <field type="CharField" name="name">Lice Infestations</field>
+    <field type="CharField" name="frequencies">['0.03', '0.41', '0.62', '0.93', '7.50', '13.93', '85.54', '96.50', '327.81', '405.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="293" model="medfreq.frequency">
+    <field type="CharField" name="name">Lichen Planus</field>
+    <field type="CharField" name="frequencies">['0.05', '0.49', '0.62', '0.95', '10.47', '32.71', '330.22', '402.80', '692.10', '775.09']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="294" model="medfreq.frequency">
+    <field type="CharField" name="name">Lipoma</field>
+    <field type="CharField" name="frequencies">['0.16', '0.55', '0.85', '7.50', '32.50', '35.67', '97.50', '375.54', '515.70', '660.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="295" model="medfreq.frequency">
+    <field type="CharField" name="name">Long QT Syndrome</field>
+    <field type="CharField" name="frequencies">['0.03', '0.50', '0.85', '7.50', '8.00', '27.50', '35.54', '125.69', '95.69', '95.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="296" model="medfreq.frequency">
+    <field type="CharField" name="name">Lung Diseases, Interstitial</field>
+    <field type="CharField" name="frequencies">['0.05', '0.24', '0.60', '0.97', '7.50', '35.62', '117.52', '402.06', '675.62', '823.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="297" model="medfreq.frequency">
+    <field type="CharField" name="name">Lyme Disease</field>
+    <field type="CharField" name="frequencies">['0.65', '2.50', '7.50', '25.23', '70.00', '42.50', '95.67', '175.00', '523.01', '682.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="298" model="medfreq.frequency">
+    <field type="CharField" name="name">Lymphangioma</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.93', '7.50', '27.50', '35.67', '87.50', '93.50', '223.01', '515.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="299" model="medfreq.frequency">
+    <field type="CharField" name="name">Lymphatic Diseases</field>
+    <field type="CharField" name="frequencies">['0.14', '0.35', '0.93', '11.95', '25.54', '35.67', '87.50', '93.50', '234.25', '527.81']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="300" model="medfreq.frequency">
+    <field type="CharField" name="name">Machado-Joseph Disease</field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.87', '7.50', '8.00', '13.93', '85.68', '225.23', '475.68', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="301" model="medfreq.frequency">
+    <field type="CharField" name="name">Macroglossia</field>
+    <field type="CharField" name="frequencies">['0.07', '0.23', '0.83', '2.75', '30.00', '30.00', '50.00', '134.25', '325.65', '425.68']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="302" model="medfreq.frequency">
+    <field type="CharField" name="name">Malignant Hyperthermia</field>
+    <field type="CharField" name="frequencies">['0.11', '0.55', '0.95', '5.25', '20.00', '37.50', '62.50', '93.50', '150.00', '478.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="303" model="medfreq.frequency">
+    <field type="CharField" name="name">Marfan Syndrome</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.65', '0.93', '36.29', '211.09', '475.68', '527.00', '665.34', '749.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="304" model="medfreq.frequency">
+    <field type="CharField" name="name">Mastocytosis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '0.78', '12.50', '57.50', '112.05', '241.21', '361.28', '596.50', '888.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="305" model="medfreq.frequency">
+    <field type="CharField" name="name">Measles</field>
+    <field type="CharField" name="frequencies">['0.06', '0.26', '0.75', '2.25', '7.50', '52.50', '124.94', '452.59', '515.68', '687.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="306" model="medfreq.frequency">
+    <field type="CharField" name="name">Medulloblastoma</field>
+    <field type="CharField" name="frequencies">['0.14', '0.22', '0.72', '2.58', '193.11', '247.59', '385.21', '521.68', '657.30', '729.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="307" model="medfreq.frequency">
+    <field type="CharField" name="name">Meige Syndrome</field>
+    <field type="CharField" name="frequencies">['0.06', '0.41', '0.70', '0.83', '2.50', '32.50', '305.05', '431.20', '632.59', '723.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="308" model="medfreq.frequency">
+    <field type="CharField" name="name">Melanoma</field>
+    <field type="CharField" name="frequencies">['0.07', '0.49', '0.70', '32.80', '102.25', '212.75', '321.20', '545.68', '795.61', '857.77']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="309" model="medfreq.frequency">
+    <field type="CharField" name="name">Melanoma, Amelanotic</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '1.32', '2.51', '25.68', '212.75', '321.20', '545.68', '795.61', '857.77']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="310" model="medfreq.frequency">
+    <field type="CharField" name="name">MELAS Syndrome</field>
+    <field type="CharField" name="frequencies">['0.16', '0.35', '0.93', '2.50', '130.00', '355.68', '419.34', '651.10', '723.03', '868.43']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="311" model="medfreq.frequency">
+    <field type="CharField" name="name">Melioidosis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.50', '0.90', '13.61', '37.50', '117.50', '255.61', '497.50', '715.70', '842.06']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="312" model="medfreq.frequency">
+    <field type="CharField" name="name">Melorheostosis</field>
+    <field type="CharField" name="frequencies">['0.04', '0.26', '0.75', '12.05', '177.50', '252.50', '385.00', '404.92', '625.61', '853.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="313" model="medfreq.frequency">
+    <field type="CharField" name="name">Meniere Disease</field>
+    <field type="CharField" name="frequencies">['0.11', '0.35', '12.80', '88.50', '125.68', '240.00', '470.00', '592.50', '625.23', '723.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="314" model="medfreq.frequency">
+    <field type="CharField" name="name">Meningioma</field>
+    <field type="CharField" name="frequencies">['0.10', '0.41', '0.87', '5.50', '130.00', '255.61', '362.00', '492.68', '597.50', '654.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="315" model="medfreq.frequency">
+    <field type="CharField" name="name">Meningitis, Bacterial</field>
+    <field type="CharField" name="frequencies">['0.12', '0.23', '0.93', '2.50', '30.00', '155.68', '262.10', '315.61', '527.50', '725.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="316" model="medfreq.frequency">
+    <field type="CharField" name="name">Meningitis, Vral</field>
+    <field type="CharField" name="frequencies">['0.12', '0.25', '0.93', '2.75', '30.00', '155.68', '262.10', '315.61', '527.50', '725.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="317" model="medfreq.frequency">
+    <field type="CharField" name="name">Metabolic Syndrome X</field>
+    <field type="CharField" name="frequencies">['0.11', '0.49', '0.57', '7.50', '12.33', '190.81', '431.33', '501.20', '653.80', '825.61']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="318" model="medfreq.frequency">
+    <field type="CharField" name="name">Methemoglobinemia</field>
+    <field type="CharField" name="frequencies">['0.12', '0.35', '0.83', '2.50', '15.23', '55.68', '85.61', '92.50', '225.68', '451.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="319" model="medfreq.frequency">
+    <field type="CharField" name="name">Microcephaly</field>
+    <field type="CharField" name="frequencies">['0.08', '0.41', '0.80', '5.25', '42.50', '117.50', '272.50', '395.68', '725.00', '956.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="320" model="medfreq.frequency">
+    <field type="CharField" name="name">Microvascular Angina</field>
+    <field type="CharField" name="frequencies">['0.07', '0.23', '0.85', '35.23', '63.02', '125.03', '235.68', '396.50', '575.61', '751.77']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="321" model="medfreq.frequency">
+    <field type="CharField" name="name">Migraine Disorders</field>
+    <field type="CharField" name="frequencies">['0.15', '0.18', '2.32', '63.75', '72.30', '132.20', '220.30', '587.30', '722.52', '915.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="322" model="medfreq.frequency">
+    <field type="CharField" name="name">Mite Infestations</field>
+    <field type="CharField" name="frequencies">['0.05', '6.24', '30.78', '129.97', '321.53', '565.68', '615.22', '705.68', '892.50', '952.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="323" model="medfreq.frequency">
+    <field type="CharField" name="name">Monosomy</field>
+    <field type="CharField" name="frequencies">['0.06', '0.50', '0.90', '2.25', '7.50', '32.71', '155.61', '397.50', '624.94', '815.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="324" model="medfreq.frequency">
+    <field type="CharField" name="name">Motion Sickness</field>
+    <field type="CharField" name="frequencies">['0.15', '0.23', '0.68', '0.83', '72.52', '137.57', '292.61', '537.30', '822.59', '921.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="325" model="medfreq.frequency">
+    <field type="CharField" name="name">Motor Neuron Disease</field>
+    <field type="CharField" name="frequencies">['0.17', '0.32', '0.95', '5.51', '32.45', '47.51', '162.21', '215.70', '397.50', '475.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="326" model="medfreq.frequency">
+    <field type="CharField" name="name">Movement Disorder</field>
+    <field type="CharField" name="frequencies">['0.02', '0.24', '0.95', '2.50', '25.78', '172.50', '296.50', '475.58', '576.29', '772.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="327" model="medfreq.frequency">
+    <field type="CharField" name="name">Moyamoya Disease</field>
+    <field type="CharField" name="frequencies">['0.04', '0.25', '0.65', '0.93', '2.50', '7.50', '96.50', '324.94', '475.87', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="328" model="medfreq.frequency">
+    <field type="CharField" name="name">Muscle Spasticity</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.62', '0.90', '5.58', '117.25', '442.52', '657.51', '722.59', '865.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="329" model="medfreq.frequency">
+    <field type="CharField" name="name">Muscular Diseases</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '5.78', '66.83', '132.50', '205.78', '472.50', '507.50', '782.20', '932.10']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="330" model="medfreq.frequency">
+    <field type="CharField" name="name">Muscular Dystrophies</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.60', '0.83', '5.87', '47.25', '142.50', '357.52', '702.51', '882.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="331" model="medfreq.frequency">
+    <field type="CharField" name="name">Mutism</field>
+    <field type="CharField" name="frequencies">['0.19', '0.37', '0.75', '0.85', '2.25', '58.58', '129.58', '448.87', '553.50', '695.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="332" model="medfreq.frequency">
+    <field type="CharField" name="name">Mucopolysaccharidoses</field>
+    <field type="CharField" name="frequencies">['0.07', '0.35', '0.70', '5.58', '17.25', '22.50', '150.00', '413.02', '550.00', '719.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="333" model="medfreq.frequency">
+    <field type="CharField" name="name">Multiple Myeloma</field>
+    <field type="CharField" name="frequencies">['0.06', '0.35', '0.62', '0.97', '12.50', '27.50', '142.50', '325.87', '623.01', '815.58']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="334" model="medfreq.frequency">
+    <field type="CharField" name="name">Multiple System Atrophy</field>
+    <field type="CharField" name="frequencies">['0.04', '0.46', '0.62', '1.00', '2.75', '15.87', '65.00', '324.94', '219.34', '425.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="335" model="medfreq.frequency">
+    <field type="CharField" name="name">Mumps</field>
+    <field type="CharField" name="frequencies">['0.13', '0.30', '0.83', '2.50', '7.50', '22.50', '142.02', '251.02', '325.58', '471.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="336" model="medfreq.frequency">
+    <field type="CharField" name="name">Muscle Cramp</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.62', '3.83', '35.25', '132.25', '282.50', '327.50', '522.50', '748.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="337" model="medfreq.frequency">
+    <field type="CharField" name="name">Myasthenia Gravis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.68', '0.93', '2.50', '5.50', '135.58', '333.57', '613.54', '705.57']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="338" model="medfreq.frequency">
+    <field type="CharField" name="name">985.90Mycobacterium Infections</field>
+    <field type="CharField" name="frequencies">['0.06', '0.32', '0.60', '2.85', '8.25', '39.55', '129.50', '341.50', '700.57', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="339" model="medfreq.frequency">
+    <field type="CharField" name="name">Mycoplasma Infections</field>
+    <field type="CharField" name="frequencies">['0.19', '0.40', '0.95', '2.50', '32.50', '97.50', '160.03', '532.50', '817.54', '923.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="340" model="medfreq.frequency">
+    <field type="CharField" name="name">Mycoses</field>
+    <field type="CharField" name="frequencies">['0.17', '0.22', '0.93', '2.75', '27.50', '132.50', '255.58', '475.85', '724.94', '825.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="341" model="medfreq.frequency">
+    <field type="CharField" name="name">Myelitis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.46', '0.95', '2.50', '32.50', '50.00', '150.00', '350.00', '475.87', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="342" model="medfreq.frequency">
+    <field type="CharField" name="name">Myeloproliferative Disorders</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '0.60', '0.95', '5.78', '30.00', '57.50', '97.50', '325.87', '675.96']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="343" model="medfreq.frequency">
+    <field type="CharField" name="name">Myiasis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.49', '0.60', '0.87', '2.25', '5.25', '113.98', '545.87', '735.00', '805.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="344" model="medfreq.frequency">
+    <field type="CharField" name="name">Myocardial Infarction</field>
+    <field type="CharField" name="frequencies">['0.19', '0.37', '0.78', '0.90', '7.50', '121.72', '340.00', '457.50', '592.50', '775.58']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="345" model="medfreq.frequency">
+    <field type="CharField" name="name">Myocardial schemia</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.62', '0.97', '12.50', '117.50', '345.23', '567.50', '625.87', '775.58']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="346" model="medfreq.frequency">
+    <field type="CharField" name="name">Myocarditis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.32', '1.73', '32.90', '67.50', '125.23', '322.50', '539.00', '832.59', '915.58']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="347" model="medfreq.frequency">
+    <field type="CharField" name="name">Myoclonus</field>
+    <field type="CharField" name="frequencies">['0.07', '0.35', '0.70', '45.00', '77.25', '114.69', '320.00', '637.08', '805.87', '973.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="348" model="medfreq.frequency">
+    <field type="CharField" name="name">Nail Disease</field>
+    <field type="CharField" name="frequencies">['0.05', '0.37', '0.95', '2.75', '7.50', '22.50', '47.50', '607.50', '834.56', '911.87']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="349" model="medfreq.frequency">
+    <field type="CharField" name="name">Nausea</field>
+    <field type="CharField" name="frequencies">['0.07', '0.41', '0.73', '4.83', '67.51', '220.53', '325.87', '451.23', '704.94', '815.08']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="350" model="medfreq.frequency">
+    <field type="CharField" name="name">Neck Pain</field>
+    <field type="CharField" name="frequencies">['0.08', '0.49', '0.73', '0.80', '7.50', '142.53', '285.02', '412.03', '528.23', '775.56']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="351" model="medfreq.frequency">
+    <field type="CharField" name="name">Nelson Syndrome</field>
+    <field type="CharField" name="frequencies">['0.03', '0.24', '2.78', '78.85', '233.56', '475.87', '527.00', '667.00', '752.70', '990.62']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="352" model="medfreq.frequency">
+    <field type="CharField" name="name">Nephritis, Hereditary</field>
+    <field type="CharField" name="frequencies">['0.03', '0.37', '0.78', '0.90', '7.50', '10.72', '40.00', '157.50', '392.50', '575.56']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="353" model="medfreq.frequency">
+    <field type="CharField" name="name">Nephrosis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.24', '0.75', '0.90', '213.52', '335.58', '413.98', '635.00', '795.22', '826.32']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="354" model="medfreq.frequency">
+    <field type="CharField" name="name">Nervous System Diseases</field>
+    <field type="CharField" name="frequencies">['0.04', '0.25', '0.65', '0.93', '2.75', '7.50', '96.50', '326.16', '475.56', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="355" model="medfreq.frequency">
+    <field type="CharField" name="name">Neural Tube Defects</field>
+    <field type="CharField" name="frequencies">['0.03', '0.24', '0.85', '2.50', '5.87', '85.00', '96.50', '175.87', '357.77', '452.59']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="356" model="medfreq.frequency">
+    <field type="CharField" name="name">Neurilemmoma</field>
+    <field type="CharField" name="frequencies">['0.03', '0.35', '0.70', '2.78', '7.25', '12.50', '42.02', '175.87', '527.00', '658.81']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="357" model="medfreq.frequency">
+    <field type="CharField" name="name">Neuroblastoma</field>
+    <field type="CharField" name="frequencies">['0.04', '0.18', '0.78', '2.50', '7.50', '55.91', '87.50', '96.50', '325.87', '523.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="358" model="medfreq.frequency">
+    <field type="CharField" name="name">Neurocysticercosis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.52', '0.73', '13.61', '125.29', '255.56', '372.58', '551.23', '673.29', '713.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="359" model="medfreq.frequency">
+    <field type="CharField" name="name">Neurofibromatoses</field>
+    <field type="CharField" name="frequencies">['0.17', '0.35', '0.83', '7.50', '115.29', '347.50', '487.50', '592.50', '675.91', '775.56']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="360" model="medfreq.frequency">
+    <field type="CharField" name="name">Neuroma, Acoustic</field>
+    <field type="CharField" name="frequencies">['0.05', '0.35', '0.62', '0.97', '2.50', '7.50', '122.50', '307.50', '425.52', '624.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="361" model="medfreq.frequency">
+    <field type="CharField" name="name">Neutropenia</field>
+    <field type="CharField" name="frequencies">['0.06', '0.46', '0.62', '0.97', '2.50', '22.68', '167.51', '436.42', '558.57', '726.16']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="362" model="medfreq.frequency">
+    <field type="CharField" name="name">Nevus</field>
+    <field type="CharField" name="frequencies">['0.03', '0.32', '0.73', '0.91', '7.52', '25.67', '162.58', '392.11', '612.34', '815.29']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="363" model="medfreq.frequency">
+    <field type="CharField" name="name">Niemann-Pick Diseases</field>
+    <field type="CharField" name="frequencies">['0.05', '0.46', '0.95', '7.50', '32.50', '154.31', '267.50', '352.57', '411.12', '634.25']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="364" model="medfreq.frequency">
+    <field type="CharField" name="name">Nocardia Infections</field>
+    <field type="CharField" name="frequencies">['0.16', '0.32', '0.95', '7.50', '32.50', '47.50', '95.29', '376.29', '675.29', '727.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="365" model="medfreq.frequency">
+    <field type="CharField" name="name">Nocturia</field>
+    <field type="CharField" name="frequencies">['0.05', '0.37', '0.85', '2.50', '7.50', '122.53', '441.15', '611.21', '715.22', '852.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="366" model="medfreq.frequency">
+    <field type="CharField" name="name">Nystagmus, Pathologic</field>
+    <field type="CharField" name="frequencies">['0.07', '0.37', '0.95', '7.50', '82.00', '193.93', '237.50', '487.50', '706.21', '946.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="367" model="medfreq.frequency">
+    <field type="CharField" name="name">Odontogenic Tumors</field>
+    <field type="CharField" name="frequencies">['0.13', '0.52', '0.62', '13.52', '5.87', '52.50', '72.50', '153.67', '375.29', '453.72']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="368" model="medfreq.frequency">
+    <field type="CharField" name="name">Onchocerciasis</field>
+    <field type="CharField" name="frequencies">['0.15', '0.25', '0.85', '7.50', '8.00', '125.91', '465.52', '622.06', '875.29', '927.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="369" model="medfreq.frequency">
+    <field type="CharField" name="name">Onychomycosis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.40', '0.90', '12.85', '20.14', '67.11', '135.52', '325.00', '475.52', '612.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="370" model="medfreq.frequency">
+    <field type="CharField" name="name">Optic Nerve Diseases</field>
+    <field type="CharField" name="frequencies">['0.01', '0.18', '0.70', '2.25', '5.29', '47.50', '275.52', '425.29', '571.00', '813.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="371" model="medfreq.frequency">
+    <field type="CharField" name="name">Orbital Cellulitis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.50', '0.85', '5.25', '77.25', '112.78', '407.50', '511.88', '725.37', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="372" model="medfreq.frequency">
+    <field type="CharField" name="name">Osteitis Deformans</field>
+    <field type="CharField" name="frequencies">['0.30', '0.83', '7.50', '8.00', '22.50', '40.00', '225.37', '475.52', '527.00', '667.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="373" model="medfreq.frequency">
+    <field type="CharField" name="name">Osteoarthritis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.41', '0.87', '7.50', '8.00', '77.50', '187.50', '358.81', '721.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="374" model="medfreq.frequency">
+    <field type="CharField" name="name">Osteochondritis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.30', '0.83', '7.50', '128.00', '202.43', '340.00', '450.00', '575.37', '719.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="375" model="medfreq.frequency">
+    <field type="CharField" name="name">Osteomyelitis</field>
+    <field type="CharField" name="frequencies">['0.16', '0.23', '7.73', '72.25', '105.29', '207.00', '332.50', '547.50', '750.00', '875.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="376" model="medfreq.frequency">
+    <field type="CharField" name="name">Osteonecrosis</field>
+    <field type="CharField" name="frequencies">['0.13', '0.22', '0.93', '5.50', '17.50', '32.50', '72.50', '127.00', '356.50', '624.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="377" model="medfreq.frequency">
+    <field type="CharField" name="name">Otitis</field>
+    <field type="CharField" name="frequencies">['0.10', '0.52', '0.78', '0.80', '2.25', '5.26', '167.50', '352.52', '845.47', '922.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="378" model="medfreq.frequency">
+    <field type="CharField" name="name">Otosclerosis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.25', '0.90', '2.25', '5.75', '30.00', '157.50', '305.47', '553.50', '850.32']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="379" model="medfreq.frequency">
+    <field type="CharField" name="name">Ovarian Cysts</field>
+    <field type="CharField" name="frequencies">['0.06', '0.40', '0.83', '5.25', '85.47', '132.20', '247.50', '530.20', '618.20', '880.30']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="380" model="medfreq.frequency">
+    <field type="CharField" name="name">Pain</field>
+    <field type="CharField" name="frequencies">['0.16', '0.35', '0.95', '5.26', '27.50', '52.50', '225.47', '522.53', '682.02', '750.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="381" model="medfreq.frequency">
+    <field type="CharField" name="name">Pallister-Killian Syndrome</field>
+    <field type="CharField" name="frequencies">['0.08', '0.25', '0.90', '2.25', '5.29', '30.00', '57.50', '45.37', '96.50', '233.63']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="382" model="medfreq.frequency">
+    <field type="CharField" name="name">Pancreatic Diseases</field>
+    <field type="CharField" name="frequencies">['0.08', '0.40', '0.83', '5.47', '105.00', '215.47', '417.50', '631.00', '801.91', '931.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="383" model="medfreq.frequency">
+    <field type="CharField" name="name">Pancreatitis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.52', '0.68', '2.75', '7.50', '55.91', '324.37', '519.34', '653.69', '756.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="384" model="medfreq.frequency">
+    <field type="CharField" name="name">Panniculitis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.49', '0.65', '7.50', '12.85', '17.50', '72.50', '226.07', '475.47', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="385" model="medfreq.frequency">
+    <field type="CharField" name="name">Papilloma</field>
+    <field type="CharField" name="frequencies">['0.04', '0.32', '0.57', '0.85', '5.25', '7.25', '50.00', '93.50', '300.00', '475.47']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="386" model="medfreq.frequency">
+    <field type="CharField" name="name">Papillomavirus Infections</field>
+    <field type="CharField" name="frequencies">['0.05', '0.32', '0.60', '0.85', '12.33', '57.26', '152.00', '93.50', '315.70', '425.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="387" model="medfreq.frequency">
+    <field type="CharField" name="name">Paralysis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.22', '0.97', '7.50', '22.50', '85.37', '155.47', '285.00', '416.50', '605.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="388" model="medfreq.frequency">
+    <field type="CharField" name="name">Paraphilias</field>
+    <field type="CharField" name="frequencies">['0.06', '0.24', '0.78', '0.83', '2.50', '10.89', '22.50', '124.37', '375.00', '515.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="389" model="medfreq.frequency">
+    <field type="CharField" name="name">Parapsoriasis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.37', '0.78', '0.90', '7.52', '10.32', '140.00', '232.50', '725.47', '925.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="390" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites flukes sheep liver</field>
+    <field type="CharField" name="frequencies">['0.15', '0.38', '0.93', '2.52', '31.20', '43.43', '68.50', '98.50', '149.28', '496.01']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="391" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites follicular mange</field>
+    <field type="CharField" name="frequencies">['0.52', '0.68', '0.97', '2.50', '27.50', '35.91', '95.43', '375.37', '533.63', '653.69']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="392" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites general</field>
+    <field type="CharField" name="frequencies">['0.41', '0.60', '0.85', '5.17', '22.50', '57.50', '322.06', '475.43', '575.44', '627.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="393" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites giardia lamblia</field>
+    <field type="CharField" name="frequencies">['0.01', '0.32', '0.65', '0.90', '5.87', '7.50', '37.50', '150.00', '375.43', '519.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="394" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites gyrodactylus</field>
+    <field type="CharField" name="frequencies">['0.16', '0.30', '0.57', '0.85', '12.33', '2.75', '20.00', '150.00', '326.07', '479.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="395" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites heartworms</field>
+    <field type="CharField" name="frequencies">['0.13', '0.22', '0.93', '5.50', '17.50', '32.50', '52.50', '70.00', '92.50', '122.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="396" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites hookworm</field>
+    <field type="CharField" name="frequencies">['0.16', '0.30', '0.57', '0.95', '2.50', '5.50', '20.00', '150.00', '319.34', '478.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="397" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites passalurus ambiguus</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.60', '0.95', '5.17', '7.25', '20.00', '90.00', '175.44', '478.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="398" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites pinworm</field>
+    <field type="CharField" name="frequencies">['0.07', '0.52', '0.75', '0.97', '2.50', '12.33', '22.50', '65.43', '322.06', '475.43']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="399" model="medfreq.frequency">
+    <field type="CharField" name="name">C) </field>
+    <field type="CharField" name="frequencies">['0.37', '0.95', '2.75', '3.00', '72.50', '96.50', '375.43', '175.44', '375.91', '598.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="400" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites tapeworms</field>
+    <field type="CharField" name="frequencies">['0.10', '0.25', '0.68', '5.75', '2.75', '7.50', '96.50', '226.07', '475.44', '527.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="401" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites trichuris</field>
+    <field type="CharField" name="frequencies">['0.05', '0.12', '0.75', '0.80', '5.17', '17.50', '67.50', '222.53', '225.91', '454.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="402" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites trypanosoma lewisi</field>
+    <field type="CharField" name="frequencies">['0.15', '0.12', '0.62', '0.83', '10.53', '2.75', '15.91', '96.50', '225.41', '524.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="403" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites turbatrix</field>
+    <field type="CharField" name="frequencies">['0.24', '0.70', '0.97', '2.50', '27.50', '45.83', '67.50', '97.50', '325.36', '451.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="404" model="medfreq.frequency">
+    <field type="CharField" name="name">Parasites urocleidus</field>
+    <field type="CharField" name="frequencies">['0.13', '0.23', '0.75', '0.85', '5.25', '7.25', '45.00', '87.50', '95.36', '150.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="405" model="medfreq.frequency">
+    <field type="CharField" name="name">Parkinson Disease</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.65', '0.83', '9.50', '115.71', '255.83', '485.43', '692.50', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="406" model="medfreq.frequency">
+    <field type="CharField" name="name">Parkinsonian Disorders</field>
+    <field type="CharField" name="frequencies">['0.57', '0.78', '0.90', '5.25', '7.00', '115.71', '255.83', '485.43', '692.50', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="407" model="medfreq.frequency">
+    <field type="CharField" name="name">Paronychia</field>
+    <field type="CharField" name="frequencies">['0.02', '0.32', '0.62', '0.97', '112.85', '213.93', '325.28', '516.07', '616.52', '773.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="408" model="medfreq.frequency">
+    <field type="CharField" name="name">Pemphigus</field>
+    <field type="CharField" name="frequencies">['0.03', '0.12', '0.95', '2.75', '12.71', '50.00', '90.00', '325.44', '433.63', '560.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="409" model="medfreq.frequency">
+    <field type="CharField" name="name">Pericardial Effusion</field>
+    <field type="CharField" name="frequencies">['0.19', '0.50', '0.57', '1.47', '19.52', '122.50', '352.50', '487.50', '695.35', '833.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="410" model="medfreq.frequency">
+    <field type="CharField" name="name">Pericarditis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '0.75', '12.93', '50.59', '197.50', '482.21', '762.20', '891.51', '923.79']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="411" model="medfreq.frequency">
+    <field type="CharField" name="name">Periodontal Diseases</field>
+    <field type="CharField" name="frequencies">['0.06', '0.32', '0.73', '0.87', '12.33', '15.00', '85.54', '150.00', '225.36', '575.83']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="412" model="medfreq.frequency">
+    <field type="CharField" name="name">Peroxisomal Disorders</field>
+    <field type="CharField" name="frequencies">['0.06', '0.26', '0.57', '9.00', '12.85', '35.54', '125.00', '424.37', '760.00', '812.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="413" model="medfreq.frequency">
+    <field type="CharField" name="name">Pharyngeal Diseases</field>
+    <field type="CharField" name="frequencies">['0.04', '0.50', '0.95', '2.75', '82.85', '122.01', '237.50', '422.53', '635.35', '873.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="414" model="medfreq.frequency">
+    <field type="CharField" name="name">Pharyngitis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.22', '0.73', '5.25', '7.25', '52.03', '157.51', '290.20', '675.35', '821.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="415" model="medfreq.frequency">
+    <field type="CharField" name="name">Pheochromocytoma</field>
+    <field type="CharField" name="frequencies">['0.06', '0.49', '0.73', '3.21', '30.89', '115.83', '322.50', '452.50', '697.50', '875.35']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="416" model="medfreq.frequency">
+    <field type="CharField" name="name">Phimosis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '0.57', '0.97', '2.50', '103.00', '222.50', '345.00', '497.50', '725.35']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="417" model="medfreq.frequency">
+    <field type="CharField" name="name">Phlebitis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.37', '0.87', '2.25', '33.50', '75.85', '105.83', '275.54', '475.35', '857.77']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="418" model="medfreq.frequency">
+    <field type="CharField" name="name">Phobic Disorders</field>
+    <field type="CharField" name="frequencies">['0.02', '0.23', '0.65', '16.95', '73.50', '120.53', '355.54', '607.59', '816.51', '979.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="419" model="medfreq.frequency">
+    <field type="CharField" name="name">Pituitary Diseases</field>
+    <field type="CharField" name="frequencies">['0.37', '0.97', '2.75', '15.03', '71.50', '196.50', '275.87', '419.34', '612.74', '858.57']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="420" model="medfreq.frequency">
+    <field type="CharField" name="name">Pityriasis</field>
+    <field type="CharField" name="frequencies">['0.20', '0.32', '2.88', '5.25', '132.50', '237.50', '496.50', '626.07', '875.34', '927.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="421" model="medfreq.frequency">
+    <field type="CharField" name="name">Pleural Diseases</field>
+    <field type="CharField" name="frequencies">['0.13', '0.35', '5.85', '17.50', '87.50', '137.50', '457.50', '695.87', '850.00', '919.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="422" model="medfreq.frequency">
+    <field type="CharField" name="name">POEMS Syndrome</field>
+    <field type="CharField" name="frequencies">['0.04', '0.22', '0.62', '13.52', '5.50', '40.00', '175.83', '432.41', '565.36', '709.83']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="423" model="medfreq.frequency">
+    <field type="CharField" name="name">Poliomyelitis</field>
+    <field type="CharField" name="frequencies">['0.02', '0.12', '0.75', '37.93', '105.17', '213.71', '465.00', '597.50', '724.37', '825.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="424" model="medfreq.frequency">
+    <field type="CharField" name="name">Polyarteritis Nodosa</field>
+    <field type="CharField" name="frequencies">['0.08', '0.32', '0.73', '3.87', '19.12', '159.32', '285.00', '654.03', '724.34', '933.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="425" model="medfreq.frequency">
+    <field type="CharField" name="name">Polyhydramnios</field>
+    <field type="CharField" name="frequencies">['0.18', '0.55', '1.00', '5.25', '27.50', '42.50', '72.50', '195.87', '420.02', '719.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="426" model="medfreq.frequency">
+    <field type="CharField" name="name">Porphyrias</field>
+    <field type="CharField" name="frequencies">['0.15', '0.25', '3.97', '27.50', '110.53', '215.87', '467.50', '715.34', '802.41', '952.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="427" model="medfreq.frequency">
+    <field type="CharField" name="name">Prosopagnosia</field>
+    <field type="CharField" name="frequencies">['0.24', '0.73', '0.87', '7.50', '30.00', '67.50', '95.90', '92.50', '524.37', '650.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="428" model="medfreq.frequency">
+    <field type="CharField" name="name">Prosthesis Implantation</field>
+    <field type="CharField" name="frequencies">['0.10', '0.52', '0.87', '3.20', '15.89', '32.75', '132.00', '437.50', '525.83', '725.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="429" model="medfreq.frequency">
+    <field type="CharField" name="name">Prosthodontics</field>
+    <field type="CharField" name="frequencies">['0.17', '0.72', '1.65', '16.85', '55.25', '127.50', '455.87', '565.00', '752.00', '975.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="430" model="medfreq.frequency">
+    <field type="CharField" name="name">Proteinuria</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '0.87', '57.50', '78.00', '132.30', '351.50', '652.31', '825.87', '915.83']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="431" model="medfreq.frequency">
+    <field type="CharField" name="name">Proteus Syndrome</field>
+    <field type="CharField" name="frequencies">['0.06', '0.25', '0.87', '12.30', '55.71', '85.00', '187.50', '442.50', '696.50', '875.31']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="432" model="medfreq.frequency">
+    <field type="CharField" name="name">Protozoan Infections</field>
+    <field type="CharField" name="frequencies">['0.02', '0.23', '0.85', '5.71', '55.83', '172.50', '317.50', '663.50', '725.31', '853.02']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="433" model="medfreq.frequency">
+    <field type="CharField" name="name">Pruritus Vulvae</field>
+    <field type="CharField" name="frequencies">['0.16', '0.35', '0.95', '5.50', '27.50', '47.50', '357.30', '478.50', '527.00', '717.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="434" model="medfreq.frequency">
+    <field type="CharField" name="name">Pseudotumor Cerebri</field>
+    <field type="CharField" name="frequencies">['0.06', '0.49', '0.68', '7.50', '102.50', '231.70', '472.50', '625.69', '705.70', '857.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="435" model="medfreq.frequency">
+    <field type="CharField" name="name">Psittacosis</field>
+    <field type="CharField" name="frequencies">['0.04', '0.23', '1.97', '25.71', '132.50', '332.50', '415.02', '675.23', '858.59', '915.38']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="436" model="medfreq.frequency">
+    <field type="CharField" name="name">Psoriasis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.55', '1.78', '5.97', '85.15', '117.15', '453.20', '692.23', '824.37', '951.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="437" model="medfreq.frequency">
+    <field type="CharField" name="name">Psychotic Disorders</field>
+    <field type="CharField" name="frequencies">['0.57', '0.68', '0.87', '2.50', '5.71', '32.50', '92.50', '322.53', '519.34', '653.69']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="438" model="medfreq.frequency">
+    <field type="CharField" name="name">Pulmonary Atresia</field>
+    <field type="CharField" name="frequencies">['0.15', '0.41', '0.68', '0.98', '7.52', '11.81', '89.51', '417.43', '671.98', '905.70']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="439" model="medfreq.frequency">
+    <field type="CharField" name="name">Pulmonary Cancer</field>
+    <field type="CharField" name="frequencies">['0.23', '0.41', '0.72', '0.87', '5.50', '13.01', '81.53', '410.41', '527.21', '915.91']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="440" model="medfreq.frequency">
+    <field type="CharField" name="name">Pyoderma Gangrenosum</field>
+    <field type="CharField" name="frequencies">['0.03', '0.32', '0.73', '0.95', '14.00', '75.31', '185.00', '310.50', '625.31', '971.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="441" model="medfreq.frequency">
+    <field type="CharField" name="name">Rat-Bite Fever</field>
+    <field type="CharField" name="frequencies">['0.17', '0.55', '0.95', '35.12', '85.31', '137.50', '562.50', '697.50', '722.53', '920.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="442" model="medfreq.frequency">
+    <field type="CharField" name="name">Relapsing Fever</field>
+    <field type="CharField" name="frequencies">['0.08', '0.57', '0.90', '5.71', '45.20', '152.59', '262.50', '695.02', '715.73', '819.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="443" model="medfreq.frequency">
+    <field type="CharField" name="name">Renal Dialysis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.50', '0.87', '12.85', '27.50', '141.59', '301.23', '453.02', '783.40', '825.03']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="444" model="medfreq.frequency">
+    <field type="CharField" name="name">Retropharyngeal Abscess</field>
+    <field type="CharField" name="frequencies">['0.12', '0.25', '0.62', '2.50', '3.00', '315.75', '425.28', '697.50', '869.71', '925.28']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="445" model="medfreq.frequency">
+    <field type="CharField" name="name">Rhinoscleroma</field>
+    <field type="CharField" name="frequencies">['0.08', '0.24', '0.63', '7.82', '32.25', '67.50', '155.29', '391.02', '415.70', '726.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="446" model="medfreq.frequency">
+    <field type="CharField" name="name">Robinow Syndrome</field>
+    <field type="CharField" name="frequencies">['0.13', '0.91', '14.93', '87.50', '117.60', '315.75', '435.28', '571.50', '796.50', '825.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="447" model="medfreq.frequency">
+    <field type="CharField" name="name">Sarcoidosis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.50', '37.50', '75.56', '325.27', '475.27', '527.00', '661.71', '742.00', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="448" model="medfreq.frequency">
+    <field type="CharField" name="name">Sarcoma</field>
+    <field type="CharField" name="frequencies">['0.01', '0.37', '0.87', '2.25', '2.50', '70.00', '95.27', '269.71', '175.27', '350.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="449" model="medfreq.frequency">
+    <field type="CharField" name="name">Scabies</field>
+    <field type="CharField" name="frequencies">['0.24', '0.70', '7.50', '10.89', '5.50', '142.50', '372.50', '490.00', '825.27', '919.34']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="450" model="medfreq.frequency">
+    <field type="CharField" name="name">Scoliosis</field>
+    <field type="CharField" name="frequencies">['0.05', '0.24', '0.60', '5.25', '62.50', '90.00', '219.34', '422.53', '561.93', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="451" model="medfreq.frequency">
+    <field type="CharField" name="name">Scotoma</field>
+    <field type="CharField" name="frequencies">['0.07', '0.73', '2.50', '5.81', '50.00', '175.27', '434.25', '566.41', '847.96', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="452" model="medfreq.frequency">
+    <field type="CharField" name="name">Seizures</field>
+    <field type="CharField" name="frequencies">['0.46', '0.95', '67.50', '150.00', '275.19', '519.34', '682.45', '711.21', '859.83', '922.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="453" model="medfreq.frequency">
+    <field type="CharField" name="name">Sepsis</field>
+    <field type="CharField" name="frequencies">['0.07', '0.22', '32.50', '93.50', '175.75', '479.93', '527.00', '667.00', '721.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="454" model="medfreq.frequency">
+    <field type="CharField" name="name">Shock</field>
+    <field type="CharField" name="frequencies">['0.17', '0.32', '0.95', '115.50', '210.50', '475.19', '527.00', '667.00', '742.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="455" model="medfreq.frequency">
+    <field type="CharField" name="name">Shoulder Injuries</field>
+    <field type="CharField" name="frequencies">['0.12', '5.50', '32.50', '125.71', '229.32', '479.50', '527.00', '667.00', '789.00', '918.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="456" model="medfreq.frequency">
+    <field type="CharField" name="name">Sialorrhea</field>
+    <field type="CharField" name="frequencies">['0.24', '0.90', '9.00', '13.52', '85.00', '92.50', '250.00', '376.29', '425.75', '845.10']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="457" model="medfreq.frequency">
+    <field type="CharField" name="name">Skin Diseases</field>
+    <field type="CharField" name="frequencies">['0.19', '0.37', '7.25', '45.75', '96.50', '325.00', '519.34', '655.20', '750.00', '922.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="458" model="medfreq.frequency">
+    <field type="CharField" name="name">Skin Ulcer</field>
+    <field type="CharField" name="frequencies">['0.05', '0.95', '7.50', '8.00', '40.00', '57.50', '125.75', '325.17', '522.53', '655.20']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="459" model="medfreq.frequency">
+    <field type="CharField" name="name">Smallpox</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '5.50', '35.17', '62.50', '93.50', '225.00', '496.01', '682.45', '753.07']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="460" model="medfreq.frequency">
+    <field type="CharField" name="name">Spinal Dysraphism</field>
+    <field type="CharField" name="frequencies">['0.32', '0.80', '7.50', '25.16', '52.50', '255.93', '522.53', '691.27', '753.07', '912.33']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="461" model="medfreq.frequency">
+    <field type="CharField" name="name">Splenic Rupture</field>
+    <field type="CharField" name="frequencies">['0.03', '0.57', '50.00', '205.83', '358.57', '475.16', '527.00', '667.00', '749.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="462" model="medfreq.frequency">
+    <field type="CharField" name="name">Spondylolisthesis</field>
+    <field type="CharField" name="frequencies">['0.46', '0.68', '32.71', '96.50', '319.34', '428.17', '512.33', '682.45', '753.07', '922.53']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="463" model="medfreq.frequency">
+    <field type="CharField" name="name">Sprengel's Dformity</field>
+    <field type="CharField" name="frequencies">['0.14', '0.30', '0.95', '178.72', '375.17', '477.50', '527.00', '667.00', '761.85', '988.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="464" model="medfreq.frequency">
+    <field type="CharField" name="name">Stiff-Person Syndrome</field>
+    <field type="CharField" name="frequencies">['0.14', '0.95', '5.75', '12.71', '45.00', '125.17', '250.00', '479.93', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="465" model="medfreq.frequency">
+    <field type="CharField" name="name">Strongyloidiasis</field>
+    <field type="CharField" name="frequencies">['0.06', '0.25', '0.95', '65.17', '92.50', '210.50', '525.71', '650.00', '759.83', '912.33']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="466" model="medfreq.frequency">
+    <field type="CharField" name="name">Stuttering</field>
+    <field type="CharField" name="frequencies">['0.07', '0.53', '37.51', '72.56', '315.27', '475.27', '527.40', '665.76', '732.00', '988.10']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="467" model="medfreq.frequency">
+    <field type="CharField" name="name">Suture Techniques</field>
+    <field type="CharField" name="frequencies">['0.16', '0.35', '2.50', '15.75', '47.50', '275.00', '512.33', '655.20', '750.00', '925.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="468" model="medfreq.frequency">
+    <field type="CharField" name="name">Swine Flu</field>
+    <field type="CharField" name="frequencies">['0.02', '0.45', '0.65', '2.21', '6.15', '10.23', '15.91', '30.28', '77.50', '327.11']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="469" model="medfreq.frequency">
+    <field type="CharField" name="name">Syphilis</field>
+    <field type="CharField" name="frequencies">['0.02', '5.25', '25.15', '125.75', '275.03', '477.50', '527.00', '667.00', '749.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="470" model="medfreq.frequency">
+    <field type="CharField" name="name">Syringomyelia</field>
+    <field type="CharField" name="frequencies">['0.12', '5.12', '7.00', '32.50', '95.75', '175.00', '522.53', '682.02', '759.83', '900.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="471" model="medfreq.frequency">
+    <field type="CharField" name="name">Taeniasis</field>
+    <field type="CharField" name="frequencies">['0.12', '0.65', '2.50', '10.53', '92.50', '355.72', '479.93', '527.00', '761.85', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="472" model="medfreq.frequency">
+    <field type="CharField" name="name">Telangiectasis</field>
+    <field type="CharField" name="frequencies">['0.16', '2.10', '55.03', '150.00', '229.32', '476.50', '527.00', '667.00', '742.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="473" model="medfreq.frequency">
+    <field type="CharField" name="name">Tendinopathy</field>
+    <field type="CharField" name="frequencies">['0.30', '12.71', '50.00', '150.00', '358.57', '479.50', '527.00', '662.71', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="474" model="medfreq.frequency">
+    <field type="CharField" name="name">Tennis Elbow</field>
+    <field type="CharField" name="frequencies">['0.08', '7.25', '50.00', '62.50', '93.50', '322.53', '475.03', '527.00', '667.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="475" model="medfreq.frequency">
+    <field type="CharField" name="name">Testicular Diseases</field>
+    <field type="CharField" name="frequencies">['0.12', '0.40', '0.90', '5.12', '20.00', '119.34', '175.00', '475.75', '527.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="476" model="medfreq.frequency">
+    <field type="CharField" name="name">Tetanus</field>
+    <field type="CharField" name="frequencies">['0.08', '0.32', '0.65', '7.50', '37.50', '67.50', '96.50', '527.00', '663.71', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="477" model="medfreq.frequency">
+    <field type="CharField" name="name">Thrombocytopenia</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '7.25', '42.50', '92.50', '322.53', '479.50', '527.00', '667.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="478" model="medfreq.frequency">
+    <field type="CharField" name="name">Thrombophlebitis</field>
+    <field type="CharField" name="frequencies">['0.24', '0.78', '13.98', '96.50', '375.16', '475.11', '527.00', '663.71', '752.70', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="479" model="medfreq.frequency">
+    <field type="CharField" name="name">Thyroid Nodule</field>
+    <field type="CharField" name="frequencies">['0.14', '0.12', '0.65', '2.50', '32.50', '97.50', '225.11', '422.53', '707.26', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="480" model="medfreq.frequency">
+    <field type="CharField" name="name">Thyroiditis</field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.60', '2.50', '32.50', '112.33', '319.34', '525.71', '753.07', '900.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="481" model="medfreq.frequency">
+    <field type="CharField" name="name">Thyroiditis, </field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.60', '2.50', '32.50', '112.33', '319.34', '525.71', '753.07', '900.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="482" model="medfreq.frequency">
+    <field type="CharField" name="name">Thyroiditis, Subacute</field>
+    <field type="CharField" name="frequencies">['0.14', '0.25', '0.60', '2.50', '32.50', '112.33', '319.34', '525.71', '753.07', '900.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="483" model="medfreq.frequency">
+    <field type="CharField" name="name">Tietze's Syndrome</field>
+    <field type="CharField" name="frequencies">['0.05', '0.24', '15.75', '45.00', '93.50', '376.29', '512.33', '689.93', '759.83', '925.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="484" model="medfreq.frequency">
+    <field type="CharField" name="name">Tinea</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '22.50', '57.50', '325.16', '476.50', '527.00', '667.00', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="485" model="medfreq.frequency">
+    <field type="CharField" name="name">Tinea Versicolor</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '0.60', '0.85', '350.00', '479.50', '527.00', '663.71', '752.70', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="486" model="medfreq.frequency">
+    <field type="CharField" name="name">Tinnitus</field>
+    <field type="CharField" name="frequencies">['0.07', '0.24', '0.57', '87.50', '175.16', '322.06', '476.50', '667.00', '742.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="487" model="medfreq.frequency">
+    <field type="CharField" name="name">Tourette Syndrome</field>
+    <field type="CharField" name="frequencies">['0.16', '0.23', '12.85', '55.75', '125.00', '210.50', '479.93', '593.20', '761.85', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="488" model="medfreq.frequency">
+    <field type="CharField" name="name">Toxoplasmosis</field>
+    <field type="CharField" name="frequencies">['0.17', '0.32', '32.50', '47.50', '60.00', '125.71', '476.50', '527.00', '749.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="489" model="medfreq.frequency">
+    <field type="CharField" name="name">Tracheoesophageal Fistula</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.73', '5.62', '7.25', '42.50', '90.00', '479.50', '527.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="490" model="medfreq.frequency">
+    <field type="CharField" name="name">Trachoma</field>
+    <field type="CharField" name="frequencies">['0.19', '0.37', '0.78', '0.95', '2.25', '5.25', '45.00', '65.75', '752.63', '924.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="491" model="medfreq.frequency">
+    <field type="CharField" name="name">Trichinosis</field>
+    <field type="CharField" name="frequencies">['0.10', '0.52', '0.87', '2.50', '13.39', '325.16', '475.00', '527.00', '759.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="492" model="medfreq.frequency">
+    <field type="CharField" name="name">Trichotillomania</field>
+    <field type="CharField" name="frequencies">['0.24', '0.75', '0.95', '95.00', '358.57', '475.16', '527.00', '667.00', '742.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="493" model="medfreq.frequency">
+    <field type="CharField" name="name">Tuberculosis, Spinal</field>
+    <field type="CharField" name="frequencies">['0.08', '0.40', '0.73', '0.90', '5.11', '47.50', '97.50', '222.70', '527.00', '663.71']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="494" model="medfreq.frequency">
+    <field type="CharField" name="name">Tuberous Sclerosis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.35', '5.50', '35.16', '72.50', '93.50', '525.71', '650.00', '759.83', '924.37']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="495" model="medfreq.frequency">
+    <field type="CharField" name="name">Turner Syndrome</field>
+    <field type="CharField" name="frequencies">['0.07', '0.57', '0.73', '2.50', '50.00', '150.00', '475.00', '527.00', '663.71', '776.50']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="496" model="medfreq.frequency">
+    <field type="CharField" name="name">Typhoid Fever</field>
+    <field type="CharField" name="frequencies">['0.13', '0.40', '0.87', '43.20', '92.50', '310.25', '479.50', '527.00', '789.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="497" model="medfreq.frequency">
+    <field type="CharField" name="name">Urethral Stricture</field>
+    <field type="CharField" name="frequencies">['0.14', '0.32', '0.95', '5.25', '12.71', '45.00', '150.00', '97.50', '475.09', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="498" model="medfreq.frequency">
+    <field type="CharField" name="name">Urinary Bladder Diseases</field>
+    <field type="CharField" name="frequencies">['0.01', '0.55', '0.78', '0.97', '5.09', '7.25', '50.00', '97.50', '229.32', '532.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="499" model="medfreq.frequency">
+    <field type="CharField" name="name">Urinary Tract Infections</field>
+    <field type="CharField" name="frequencies">['0.49', '0.73', '0.80', '7.50', '20.00', '50.00', '124.37', '376.29', '496.01', '689.93']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="500" model="medfreq.frequency">
+    <field type="CharField" name="name">Usher Syndrome</field>
+    <field type="CharField" name="frequencies">['0.01', '0.24', '10.53', '20.00', '124.37', '342.06', '527.00', '667.00', '742.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="501" model="medfreq.frequency">
+    <field type="CharField" name="name">Uterine Cervical Dysplasia</field>
+    <field type="CharField" name="frequencies">['0.01', '0.40', '0.68', '5.09', '7.50', '35.00', '96.50', '177.16', '753.23', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="502" model="medfreq.frequency">
+    <field type="CharField" name="name">Uterine Prolapse</field>
+    <field type="CharField" name="frequencies">['0.10', '0.42', '0.93', '5.25', '35.00', '83.00', '178.00', '519.34', '689.93', '931.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="503" model="medfreq.frequency">
+    <field type="CharField" name="name">Vaginal Disease</field>
+    <field type="CharField" name="frequencies">['0.07', '0.12', '0.85', '5.62', '15.16', '40.00', '419.34', '561.93', '640.00', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="504" model="medfreq.frequency">
+    <field type="CharField" name="name">Varicocele</field>
+    <field type="CharField" name="frequencies">['0.19', '0.57', '5.91', '52.50', '95.00', '210.25', '400.00', '568.43', '642.91', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="505" model="medfreq.frequency">
+    <field type="CharField" name="name">Vasospasm, Intracranial</field>
+    <field type="CharField" name="frequencies">['0.19', '0.26', '0.57', '7.50', '12.69', '35.33', '322.06', '425.71', '564.28', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="506" model="medfreq.frequency">
+    <field type="CharField" name="name">Venous Insufficiency</field>
+    <field type="CharField" name="frequencies">['0.12', '0.65', '13.98', '87.50', '96.50', '222.53', '325.00', '475.16', '749.00', '986.22']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="507" model="medfreq.frequency">
+    <field type="CharField" name="name">Ventricular Fibrillation</field>
+    <field type="CharField" name="frequencies">['0.14', '0.57', '7.25', '32.50', '42.50', '90.00', '275.09', '410.25', '642.06', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="508" model="medfreq.frequency">
+    <field type="CharField" name="name">Vesico-Ureteral Reflux</field>
+    <field type="CharField" name="frequencies">['0.19', '0.26', '0.57', '9.00', '17.20', '35.75', '176.09', '355.08', '642.91', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="509" model="medfreq.frequency">
+    <field type="CharField" name="name">Vision Disorders</field>
+    <field type="CharField" name="frequencies">['0.12', '0.65', '25.05', '87.50', '125.33', '222.53', '479.93', '527.00', '667.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="510" model="medfreq.frequency">
+    <field type="CharField" name="name">Vitamin A Deficiency</field>
+    <field type="CharField" name="frequencies">['0.14', '0.57', '0.95', '23.50', '269.71', '57.50', '175.16', '436.42', '642.91', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="511" model="medfreq.frequency">
+    <field type="CharField" name="name">Vitamin B Deficiency</field>
+    <field type="CharField" name="frequencies">['0.05', '0.41', '1.00', '45.00', '97.50', '324.37', '410.25', '566.41', '709.83', '930.12']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="512" model="medfreq.frequency">
+    <field type="CharField" name="name">Vitamin D Deficiency</field>
+    <field type="CharField" name="frequencies">['0.17', '0.22', '0.62', '11.09', '40.00', '57.50', '150.00', '175.00', '426.90', '826.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="513" model="medfreq.frequency">
+    <field type="CharField" name="name">Vocal Cord Paralysis</field>
+    <field type="CharField" name="frequencies">['0.08', '0.12', '15.33', '85.00', '90.00', '357.30', '527.00', '657.11', '833.20', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="514" model="medfreq.frequency">
+    <field type="CharField" name="name">von Willebrand Disease</field>
+    <field type="CharField" name="frequencies">['0.02', '0.25', '7.50', '67.50', '50.00', '95.00', '275.05', '475.09', '667.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="515" model="medfreq.frequency">
+    <field type="CharField" name="name">Vulvar Diseases</field>
+    <field type="CharField" name="frequencies">['0.03', '5.81', '13.98', '35.00', '72.50', '97.50', '134.25', '250.00', '410.25', '564.28']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="516" model="medfreq.frequency">
+    <field type="CharField" name="name">Warts</field>
+    <field type="CharField" name="frequencies">['0.16', '0.35', '17.50', '37.50', '210.50', '476.50', '527.00', '665.34', '789.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="517" model="medfreq.frequency">
+    <field type="CharField" name="name">West Nile Fever</field>
+    <field type="CharField" name="frequencies">['0.04', '0.52', '0.75', '2.50', '5.07', '47.50', '175.16', '525.71', '759.83', '932.41']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="518" model="medfreq.frequency">
+    <field type="CharField" name="name">Vestibular Neuronitis</field>
+    <field type="CharField" name="frequencies">['0.03', '0.18', '0.65', '0.93', '10.89', '5.50', '93.50', '210.50', '424.37', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="519" model="medfreq.frequency">
+    <field type="CharField" name="name">Whipple Disease</field>
+    <field type="CharField" name="frequencies">['0.87', '7.50', '2.50', '32.50', '97.50', '250.00', '479.50', '527.00', '789.00', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="520" model="medfreq.frequency">
+    <field type="CharField" name="name">Whipworm Infections</field>
+    <field type="CharField" name="frequencies">['0.03', '0.52', '0.57', '0.80', '10.53', '30.00', '72.50', '225.33', '425.16', '571.00']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="521" model="medfreq.frequency">
+    <field type="CharField" name="name">Williams Syndrome</field>
+    <field type="CharField" name="frequencies">['0.14', '0.41', '8.00', '30.00', '57.50', '125.00', '357.77', '689.93', '750.00', '934.25']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="522" model="medfreq.frequency">
+    <field type="CharField" name="name">Wolfram Syndrome</field>
+    <field type="CharField" name="frequencies">['0.20', '0.46', '2.50', '7.50', '37.50', '96.50', '222.70', '527.00', '749.00', '985.67']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="523" model="medfreq.frequency">
+    <field type="CharField" name="name">Wolman Disease</field>
+    <field type="CharField" name="frequencies">['0.10', '7.50', '8.00', '5.05', '13.93', '35.00', '90.00', '377.91', '564.28', '985.90']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="524" model="medfreq.frequency">
+    <field type="CharField" name="name">Wounds and Injuries</field>
+    <field type="CharField" name="frequencies">['0.16', '0.25', '0.62', '7.00', '12.71', '35.00', '90.00', '410.25', '560.00', '714.82']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="525" model="medfreq.frequency">
+    <field type="CharField" name="name">Xanthomatosis</field>
+    <field type="CharField" name="frequencies">['0.12', '0.23', '0.87', '5.50', '97.50', '376.29', '432.41', '563.19', '642.06', '983.17']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="526" model="medfreq.frequency">
+    <field type="CharField" name="name">Yaws</field>
+    <field type="CharField" name="frequencies">['0.57', '5.00', '32.50', '50.00', '90.00', '319.34', '522.53', '689.93', '752.63', '910.25']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="527" model="medfreq.frequency">
+    <field type="CharField" name="name">Yellow Fever</field>
+    <field type="CharField" name="frequencies">['0.05', '7.50', '17.50', '47.50', '96.50', '475.05', '527.00', '657.11', '753.23', '987.23']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="528" model="medfreq.frequency">
+    <field type="CharField" name="name">Zenker Diverticulum</field>
+    <field type="CharField" name="frequencies">['0.23', '7.50', '22.50', '35.05', '95.00', '375.33', '424.37', '563.19', '714.82', '978.05']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+  <object pk="529" model="medfreq.frequency">
+    <field type="CharField" name="name">Zollinger-Ellison Syndrome</field>
+    <field type="CharField" name="frequencies">['0.10', '0.90', '2.50', '20.00', '37.50', '97.50', '325.00', '419.34', '561.93', '823.96']</field>
+    <field type="IntegerField" name="fill_time">0</field>
+  </object>
+</django-objects>
