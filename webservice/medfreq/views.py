@@ -1,8 +1,8 @@
 from _mysql import IntegrityError
 
 from django.http import HttpResponse
-from medfreq.models import IllnessManager, IllnessItem
-from spyne import Application, ResourceAlreadyExistsError, ResourceNotFoundError, rpc
+from medfreq.models.businesslogic.models import IllnessManager, IllnessItem
+from spyne import Application, ResourceAlreadyExistsError, ResourceNotFoundError, rpc, ComplexModel
 from spyne.model.complex import Iterable
 from spyne.model.primitive import Unicode, Integer
 from spyne.protocol.soap import Soap11
@@ -12,35 +12,36 @@ from spyne.util.django import DjangoComplexModel, DjangoServiceBase, ValidationE
 m = IllnessManager()
 
 
-class Container(DjangoComplexModel):
-    class Attributes(DjangoComplexModel.Attributes):
+class IllnessItem(ComplexModel):
+    #class Attributes(DjangoComplexModel.Attributes):
         django_model = IllnessItem
 
 
 class ContainerService(ServiceBase):
-    @rpc(Integer, _returns=Container)
+    @rpc(Integer, _returns=IllnessItem)
     def get_container(ctx, pk):
+       # return "kont1"
         try:
             return IllnessItem.objects.get(pk=pk)
         except IllnessItem.DoesNotExist:
-            raise ResourceNotFoundError('Frequency')
+            raise ResourceNotFoundError('IllnessItem')
 
-    @rpc(Container, _returns=Container)
+    @rpc(IllnessItem, _returns=IllnessItem)
     def create_container(ctx, container):
         try:
             return IllnessItem.objects.create(**container.as_dict())
         except IntegrityError:
-            raise ResourceAlreadyExistsError('Frequency')
+            raise ResourceAlreadyExistsError('IllnessItem')
 
 
 class ExceptionHandlingService(DjangoServiceBase):
     """Service for testing exception handling."""
 
-    @rpc(_returns=Container)
+    @rpc(_returns=IllnessItem)
     def raise_does_not_exist(ctx):
         return IllnessItem.objects.get(pk=-1)
 
-    @rpc(_returns=Container)
+    @rpc(_returns=IllnessItem)
     def raise_validation_error(ctx):
         raise ValidationError('Is not valid.')
 

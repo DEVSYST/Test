@@ -1,4 +1,4 @@
-from medfreq.models import IllnessManager
+from webservice.medfreq.models import IllnessManager
 
 illnesses = IllnessManager()
 illnesses.init()

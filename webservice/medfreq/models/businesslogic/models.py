@@ -14,8 +14,10 @@ from decimal import Decimal
 #import RPi.GPIO as GPIO
 from django.core import serializers
 from django.db import models
+from spyne import ComplexModel, Unicode
+from spyne.util.django import DjangoComplexModel
 
-from tools import hasStrNumbers
+from medfreq.tools import hasStrNumbers
 
 gpio_pin_numbers = [5, 6, 7, 13, 12, 16, 19, 20, 21, 26]
 
@@ -108,11 +110,22 @@ class IllnessManager(models.Manager):
     #         gpio_objects.append(obj)
 
 
-class IllnessItem(models.Model):
+class IllnessItem(ComplexModel): #models.Model,
+    # class Meta:
+    #     model = ""
+    #     fields = ['team_number', 'team_name']
+
     name = models.CharField(max_length=100)
     frequencies = models.CharField(max_length=100)
     duty_cycle = models.IntegerField(null=True)
 
+    # class Attributes(DjangoComplexModel.Attributes):
+    #
+    #     deliveryCounty = Unicode
+    #     telephone = Unicode
+    #     mobileNumber = Unicode
+    #     email = Unicode
+    #
 
 
 
